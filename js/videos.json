@@ -1527,10 +1527,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/l0039ddo4as.html",
                 "num": 145
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/m0039rhvfgc.html",
+                "num": 146
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至145集",
+        "updateLast": "更新至146集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -2481,10 +2485,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/l0039sxf3wy.html",
                 "num": 193
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0039yy32nn.html",
+                "num": 194
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至193集",
+        "updateLast": "更新至194集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -3792,10 +3800,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/n0039a3uiad.html",
                 "num": 146
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/p00392v02fp.html",
+                "num": 147
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至146集",
+        "updateLast": "更新至147集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -4382,10 +4394,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/p0039diqzit.html",
                 "num": 32
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/y0039ptn76c.html",
+                "num": 33
             }
         ],
         "updateNotify": "每周二、周六10:00更新1集",
-        "updateLast": "更新至32集",
+        "updateLast": "更新至33集",
         "tvName": "万界独尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1617084918676/130",
         "headTime": 100,
@@ -5171,199 +5187,32 @@
     {
         "updateNotify": "",
         "updateLast": "更新至39集",
-        "tvName": "生死连2",
-        "fromUrl": "https://v.qq.com/x/cover/ex0l53321ke51om/e003551551k.html",
-        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/ex0l53321ke51om1528942617/260",
-        "headTime": 90,
-        "tailTime": 2580,
+        "tvName": "温暖的味道",
+        "fromUrl": "https://v.mgtv.com/x/cover/ex0l53321ke51om/e003551551k.html",
+        "coverimg": "https://1img.hitv.com/preview/sp_images/2021/05/14/202105142031490277580.jpg_220x308.jpg",
+        "headTime": 55,
+        "tailTime": 3000,
         "sections": [
             {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/e003551551k.html",
+                "url": "https://www.mgtv.com/b/369217/11964491.html",
                 "num": 1
             },
             {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/n0035dco3h5.html",
+                "url": "https://www.mgtv.com/b/369217/11964493.html",
                 "num": 2
             },
             {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/r0035e71el6.html",
+                "url": "https://www.mgtv.com/b/369217/11973281.html",
                 "num": 3
             },
             {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/z0035idfczi.html",
+                "url": "https://www.mgtv.com/b/369217/11973289.html",
                 "num": 4
             },
             {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/t0035oryo9m.html",
+                "url": "https://www.mgtv.com/b/369217/11982147.html",
                 "num": 5
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/u00352a1qo9.html",
-                "num": 6
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/k0035l52vgu.html",
-                "num": 7
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/v003593s6h3.html",
-                "num": 8
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/d0035zl6k72.html",
-                "num": 9
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/u0035qv9m1h.html",
-                "num": 10
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/k0035ezteb5.html",
-                "num": 11
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/f0035cys3uz.html",
-                "num": 12
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/s0035ndvtow.html",
-                "num": 13
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/e00358hwul3.html",
-                "num": 14
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/i0035ip0k7a.html",
-                "num": 15
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/s0035xfgznb.html",
-                "num": 16
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/h0035x8291n.html",
-                "num": 17
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/c0035hc1let.html",
-                "num": 18
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/d0035jzawx2.html",
-                "num": 19
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/d0035skth7f.html",
-                "num": 20
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/c0035nfzo9z.html",
-                "num": 21
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/r0035meg76w.html",
-                "num": 22
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/d00356uzwnh.html",
-                "num": 23
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/y0035t9gzef.html",
-                "num": 24
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/l0035d0oh3k.html",
-                "num": 25
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/f00353zd10i.html",
-                "num": 26
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/f0035f891iz.html",
-                "num": 27
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/n0035pptnlc.html",
-                "num": 28
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/h00358yptma.html",
-                "num": 29
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/z0035dmhlmr.html",
-                "num": 30
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/d003599j3el.html",
-                "num": 31
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/y0035j4dcjv.html",
-                "num": 32
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/n0035gjk146.html",
-                "num": 33
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/q0035wcrcnf.html",
-                "num": 34
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/z0035sdd8jn.html",
-                "num": 35
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/k0035st9dhp.html",
-                "num": 36
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/l0035cnxc9h.html",
-                "num": 37
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/h0035r22z7f.html",
-                "num": 38
-            },
-            {
-                "url": "https://v.qq.com/x/cover/ex0l53321ke51om/m003550ilva.html",
-                "num": 39
             }
         ]
-    },
-	{
-	    "updateNotify": "",
-	    "updateLast": "41集",
-	    "tvName": "温暖的味道",
-	    "fromUrl": "https://v.qq.com/x/cover/ex0l53321ke51om/e003551551k.html",
-	    "coverimg": "https://1img.hitv.com/preview/sp_images/2021/05/14/202105142031490277580.jpg_220x308.jpg",
-	    "headTime": 55,
-	    "tailTime": 3000,
-	    "sections": [
-			 {
-				 "url":"https://www.mgtv.com/b/369217/11964491.html",
-				 "num":1
-			 },
-			 {
-			 	 "url":"https://www.mgtv.com/b/369217/11964493.html",
-			 	 "num":2
-			 },
-			 {
-				 "url":"https://www.mgtv.com/b/369217/11973281.html",
-				 "num":3
-			 },
-			 {
-			 	 "url":"https://www.mgtv.com/b/369217/11973289.html",
-			 	 "num":4
-			 },
-			 {
-			 	 "url":"https://www.mgtv.com/b/369217/11982147.html",
-			 	 "num":5
-			 }
-			]
-	}
+    }
 ]
