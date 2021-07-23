@@ -2489,10 +2489,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0039yy32nn.html",
                 "num": 194
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/f0039t4pjbq.html",
+                "num": 195
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至194集",
+        "updateLast": "更新至195集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4610,10 +4614,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/q0039sm4izt.html",
                 "num": 84
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/r0039pdvb3e.html",
+                "num": 85
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至84集",
+        "updateLast": "更新至85集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4832,7 +4840,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至07集",
+        "updateLast": "更新至08集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -4866,6 +4874,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/w0039z0b02m.html",
                 "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/n0039u07olt.html",
+                "num": 8
             }
         ]
     },
@@ -4976,7 +4988,7 @@
             }
         ]
     },
-	{
+    {
         "updateNotify": "",
         "updateLast": "40集全",
         "tvName": "阳光之下",
@@ -4985,166 +4997,166 @@
         "headTime": 100,
         "tailTime": 2655,
         "sections": [
-			{
-				"url": "//www.mgtv.com/b/356603/10726639.html?fpa=se",
-				"num": 1
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10726646.html?fpa=se",
-				"num": 2
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10726674.html?fpa=se",
-				"num": 3
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10726675.html?fpa=se",
-				"num": 4
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10733231.html?fpa=se",
-				"num": 5
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10733232.html?fpa=se",
-				"num": 6
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741276.html?fpa=se",
-				"num": 7
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741379.html?fpa=se",
-				"num": 8
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741455.html?fpa=se",
-				"num": 9
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741632.html?fpa=se",
-				"num": 10
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741636.html?fpa=se",
-				"num": 11
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741640.html?fpa=se",
-				"num": 12
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741643.html?fpa=se",
-				"num": 13
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10741646.html?fpa=se",
-				"num": 14
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794886.html?fpa=se",
-				"num": 15
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794887.html?fpa=se",
-				"num": 16
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794888.html?fpa=se",
-				"num": 17
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794889.html?fpa=se",
-				"num": 18
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794893.html?fpa=se",
-				"num": 19
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10794897.html?fpa=se",
-				"num": 20
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813804.html?fpa=se",
-				"num": 21
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813880.html?fpa=se",
-				"num": 22
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813885.html?fpa=se",
-				"num": 23
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813894.html?fpa=se",
-				"num": 24
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813897.html?fpa=se",
-				"num": 25
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10813899.html?fpa=se",
-				"num": 26
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10899379.html?fpa=se",
-				"num": 27
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10896199.html?fpa=se",
-				"num": 28
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10896445.html?fpa=se",
-				"num": 29
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10896498.html?fpa=se",
-				"num": 30
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10896898.html?fpa=se",
-				"num": 31
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10904308.html?fpa=se",
-				"num": 32
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954223.html?fpa=se",
-				"num": 33
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954239.html?fpa=se",
-				"num": 34
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954252.html?fpa=se",
-				"num": 35
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954290.html?fpa=se",
-				"num": 36
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10955059.html?fpa=se",
-				"num": 37
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10955071.html?fpa=se",
-				"num": 38
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954648.html?fpa=se",
-				"num": 39
-			},
-			{
-				"url": "//www.mgtv.com/b/356603/10954747.html?fpa=se",
-				"num": 40
-			}
-		]
-	}
+            {
+                "url": "//www.mgtv.com/b/356603/10726639.html?fpa=se",
+                "num": 1
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10726646.html?fpa=se",
+                "num": 2
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10726674.html?fpa=se",
+                "num": 3
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10726675.html?fpa=se",
+                "num": 4
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10733231.html?fpa=se",
+                "num": 5
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10733232.html?fpa=se",
+                "num": 6
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741276.html?fpa=se",
+                "num": 7
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741379.html?fpa=se",
+                "num": 8
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741455.html?fpa=se",
+                "num": 9
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741632.html?fpa=se",
+                "num": 10
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741636.html?fpa=se",
+                "num": 11
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741640.html?fpa=se",
+                "num": 12
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741643.html?fpa=se",
+                "num": 13
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10741646.html?fpa=se",
+                "num": 14
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794886.html?fpa=se",
+                "num": 15
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794887.html?fpa=se",
+                "num": 16
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794888.html?fpa=se",
+                "num": 17
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794889.html?fpa=se",
+                "num": 18
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794893.html?fpa=se",
+                "num": 19
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10794897.html?fpa=se",
+                "num": 20
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813804.html?fpa=se",
+                "num": 21
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813880.html?fpa=se",
+                "num": 22
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813885.html?fpa=se",
+                "num": 23
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813894.html?fpa=se",
+                "num": 24
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813897.html?fpa=se",
+                "num": 25
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10813899.html?fpa=se",
+                "num": 26
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10899379.html?fpa=se",
+                "num": 27
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10896199.html?fpa=se",
+                "num": 28
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10896445.html?fpa=se",
+                "num": 29
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10896498.html?fpa=se",
+                "num": 30
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10896898.html?fpa=se",
+                "num": 31
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10904308.html?fpa=se",
+                "num": 32
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954223.html?fpa=se",
+                "num": 33
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954239.html?fpa=se",
+                "num": 34
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954252.html?fpa=se",
+                "num": 35
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954290.html?fpa=se",
+                "num": 36
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10955059.html?fpa=se",
+                "num": 37
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10955071.html?fpa=se",
+                "num": 38
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954648.html?fpa=se",
+                "num": 39
+            },
+            {
+                "url": "//www.mgtv.com/b/356603/10954747.html?fpa=se",
+                "num": 40
+            }
+        ]
+    }
 ]
