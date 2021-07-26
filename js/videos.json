@@ -821,7 +821,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至165集",
+        "updateLast": "更新至166集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -1535,10 +1535,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/m0039rhvfgc.html",
                 "num": 146
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/j0039xnytpj.html",
+                "num": 147
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至146集",
+        "updateLast": "更新至147集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -3094,10 +3098,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/k0039p1sdq4.html",
                 "num": 123
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/l00392u1a5z.html",
+                "num": 124
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至123集",
+        "updateLast": "更新至124集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -4630,10 +4638,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/r0039pdvb3e.html",
                 "num": 85
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/n0039pmujja.html",
+                "num": 86
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至85集",
+        "updateLast": "更新至86集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4856,7 +4868,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至08集",
+        "updateLast": "更新至09集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -4894,6 +4906,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/n0039u07olt.html",
                 "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c00398fpdp1.html",
+                "num": 9
             }
         ]
     },
