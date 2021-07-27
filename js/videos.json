@@ -1550,7 +1550,7 @@
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
-        "tailTime": 415,
+        "tailTime": 425,
         "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf.html"
     },
     {
@@ -5371,6 +5371,73 @@
             {
                 "url": "https://v.qq.com/x/cover/75ijb6qovzrhtp7/d0031lsq4vy.html",
                 "num": 40
+            }
+        ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至14集",
+        "tvName": "古董局中局之掠宝清单",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200o98t22n.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200o98t22n1626926243725/260",
+        "headTime": 98,
+        "tailTime": 2585,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/l003913d938.html",
+                "num": 1
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/c0039msh9cw.html",
+                "num": 2
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/t003967abwn.html",
+                "num": 3
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/z00398z6x1a.html",
+                "num": 4
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/k0039j0a0oi.html",
+                "num": 5
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/j003917llil.html",
+                "num": 6
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/f0039tr4tm6.html",
+                "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/h0039ypkfyt.html",
+                "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/m0039xe7b8k.html",
+                "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/j0039z6uwnf.html",
+                "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/c0039mn9kad.html",
+                "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/q0039lnbar9.html",
+                "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/g00393tpajj.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/z0039k1fowj.html",
+                "num": 14
             }
         ]
     }
