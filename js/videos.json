@@ -3836,10 +3836,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/d0039538d5p.html",
                 "num": 148
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e0039o08jvm.html",
+                "num": 149
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至148集",
+        "updateLast": "更新至149集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -4786,97 +4790,6 @@
         "headTime": 105,
         "tailTime": 540,
         "fromUrl": "https://v.qq.com/x/cover/mzc00200wzqlm1h.html"
-    },
-    {
-        "updateNotify": "",
-        "updateLast": "20集全",
-        "tvName": "玉昭令第二季",
-        "fromUrl": "https://so.iqiyi.com/so/q_%25E7%258E%2589%25E6%2598%25AD%25E4%25BB%25A4%2520%25E7%25AC%25AC2%25E5%25AD%25A3?source=suggest&sr=6758004923820615&ssrt=20210710095640558&ssra=f488735938906a44db0cdd847e6aae13",
-        "coverimg": "https://pic0.iqiyipic.com/image/20210525/a6/dd/a_100458350_m_601_m6_260_360.jpg",
-        "headTime": 105,
-        "tailTime": 2710,
-        "sections": [
-            {
-                "url": "https://www.iqiyi.com/v_xampanfvks.html",
-                "num": 1
-            },
-            {
-                "url": "https://www.iqiyi.com/v_16hntoh3auk.html",
-                "num": 2
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1ujk3e870lw.html",
-                "num": 3
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1uzgsbtjh1w.html",
-                "num": 4
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1h0cjetgqq8.html",
-                "num": 5
-            },
-            {
-                "url": "https://www.iqiyi.com/v_26t8w3kapug.html",
-                "num": 6
-            },
-            {
-                "url": "https://www.iqiyi.com/v_bbqxg9xwxc.html",
-                "num": 7
-            },
-            {
-                "url": "https://www.iqiyi.com/v_e1s75xn558.html",
-                "num": 8
-            },
-            {
-                "url": "https://www.iqiyi.com/v_20nwqs3hnb8.html",
-                "num": 9
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1h2uk47awa4.html",
-                "num": 10
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1w9dte9w2pg.html",
-                "num": 11
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1omjg03fpjk.html",
-                "num": 12
-            },
-            {
-                "url": "https://www.iqiyi.com/v_10vb9iipq5g.html",
-                "num": 13
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1osu92psg58.html",
-                "num": 14
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1b6g5t39ldw.html",
-                "num": 15
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1chhm9h2340.html",
-                "num": 16
-            },
-            {
-                "url": "https://www.iqiyi.com/v_27poq3dirl8.html",
-                "num": 17
-            },
-            {
-                "url": "https://www.iqiyi.com/v_28ln2toxx6k.html",
-                "num": 18
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1vdefhsv3bw.html",
-                "num": 19
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1v4ebkxv71g.html",
-                "num": 20
-            }
-        ]
     },
     {
         "updateNotify": "",
