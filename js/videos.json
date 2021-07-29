@@ -5369,5 +5369,96 @@
                 "num": 16
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至20集",
+        "tvName": "大唐小吃货",
+        "fromUrl": "https://v.qq.com/x/cover/mzc002006uua99p/j0039ho61kj.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002006uua99p1625484134394/260",
+        "headTime": 0,
+        "tailTime": 538,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/j0039ho61kj.html",
+                "num": 1
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/b0039n3t5fs.html",
+                "num": 2
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/r0039468qoc.html",
+                "num": 3
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/j00395clgrv.html",
+                "num": 4
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/s0039vkgwlo.html",
+                "num": 5
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/w0039qs3xa7.html",
+                "num": 6
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/m0039mt17zm.html",
+                "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/l0039qfy5ny.html",
+                "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/o0039fsto59.html",
+                "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/t0039soe6rw.html",
+                "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/e00397qbyqh.html",
+                "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/k0039refhd0.html",
+                "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/y00391h7cac.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/z0039o4q42g.html",
+                "num": 14
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/q0039s6ntae.html",
+                "num": 15
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/j0039tnare3.html",
+                "num": 16
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/f0039jtlo6j.html",
+                "num": 17
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/v0039x3c5or.html",
+                "num": 18
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/q0039isfpqg.html",
+                "num": 19
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/x0039p71dv9.html",
+                "num": 20
+            }
+        ]
     }
 ]
