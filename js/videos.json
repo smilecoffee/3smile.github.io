@@ -2509,10 +2509,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/o00399zer0u.html",
                 "num": 196
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/h0039bzapnf.html",
+                "num": 197
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至196集",
+        "updateLast": "更新至197集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4662,10 +4666,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/n0039pmujja.html",
                 "num": 86
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/a0039th0rdx.html",
+                "num": 87
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至86集",
+        "updateLast": "更新至87集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4801,7 +4809,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至09集",
+        "updateLast": "更新至10集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -4843,6 +4851,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c00398fpdp1.html",
                 "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/r0039zto7vm.html",
+                "num": 10
             }
         ]
     },
@@ -5297,7 +5309,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至16集",
+        "updateLast": "更新至18集",
         "tvName": "古董局中局之掠宝清单",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200o98t22n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200o98t22n1626926243725/260",
@@ -5367,6 +5379,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200o98t22n/o0039i4eg3b.html",
                 "num": 16
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/p0039l65nd2.html",
+                "num": 17
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/q0039pxktc9.html",
+                "num": 18
             }
         ]
     },
