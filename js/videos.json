@@ -818,10 +818,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/u0039wv1u92.html",
                 "num": 166
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/d0040wn0x0u.html",
+                "num": 167
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至166集",
+        "updateLast": "更新至167集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -3848,10 +3852,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e0039o08jvm.html",
                 "num": 149
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/d0039pqivl7.html",
+                "num": 150
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至149集",
+        "updateLast": "更新至150集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -4311,10 +4319,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u0039su93wx.html",
                 "num": 35
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/x00395wfzg4.html",
+                "num": 36
             }
         ],
         "updateNotify": "每周二、周六10:00更新1集",
-        "updateLast": "更新至35集",
+        "updateLast": "更新至36集",
         "tvName": "万界独尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1617084918676/130",
         "headTime": 100,
@@ -4797,10 +4809,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/o0039q19p95.html",
                 "num": 29
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/n00401r85ae.html",
+                "num": 30
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至29集",
+        "updateLast": "更新至30集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
@@ -5202,7 +5218,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至18集",
+        "updateLast": "更新至20集",
         "tvName": "古董局中局之掠宝清单",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200o98t22n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200o98t22n1626926243725/260",
@@ -5280,6 +5296,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200o98t22n/q0039pxktc9.html",
                 "num": 18
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/v0039l3xeki.html",
+                "num": 19
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/n0039yigv4t.html",
+                "num": 20
             }
         ]
     },
@@ -5376,7 +5400,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至21集",
+        "updateLast": "更新至23集",
         "tvName": "我是真的爱你",
         "fromUrl": "https://v.qq.com/x/cover/mzc002005lnxijs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002005lnxijs1625642554360/260",
@@ -5466,6 +5490,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002005lnxijs/v0039ru9jhb.html",
                 "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/r00395qmt0c.html",
+                "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/t00392xdvgd.html",
+                "num": 23
             }
         ]
     }
