@@ -1547,10 +1547,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/u00395ugo7i.html",
                 "num": 148
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/r0040ej4t4j.html",
+                "num": 149
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至148集",
+        "updateLast": "更新至149集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -3122,10 +3126,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/b0039sf6ywe.html",
                 "num": 125
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/a0039f7g03y.html",
+                "num": 126
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至125集",
+        "updateLast": "更新至126集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -4682,10 +4690,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/a0039th0rdx.html",
                 "num": 87
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/m0039uqcz41.html",
+                "num": 88
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至87集",
+        "updateLast": "更新至88集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4825,7 +4837,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集",
+        "updateLast": "更新至11集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -4871,6 +4883,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/r0039zto7vm.html",
                 "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0039x1z6t8.html",
+                "num": 11
             }
         ]
     },
@@ -5042,6 +5058,10 @@
             {
                 "url": "//www.mgtv.com/b/356603/10954747.html?fpa=se",
                 "num": 40
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0039x1z6t8.html",
+                "num": 11
             }
         ]
     },
@@ -5218,7 +5238,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至20集",
+        "updateLast": "更新至28集",
         "tvName": "古董局中局之掠宝清单",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200o98t22n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200o98t22n1626926243725/260",
@@ -5304,12 +5324,44 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200o98t22n/n0039yigv4t.html",
                 "num": 20
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/y00401e1mqf.html",
+                "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/k0040ojz7jr.html",
+                "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/q0040tcszfb.html",
+                "num": 23
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/r0040e0glhl.html",
+                "num": 24
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/i0040tl8qq7.html",
+                "num": 25
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/p0040zi7yy3.html",
+                "num": 26
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/a0040wzq6c5.html",
+                "num": 27
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200o98t22n/r0040k51hqr.html",
+                "num": 28
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至20集",
+        "updateLast": "更新至22集",
         "tvName": "大唐小吃货",
         "fromUrl": "https://v.qq.com/x/cover/mzc002006uua99p/j0039ho61kj.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002006uua99p1625484134394/260",
@@ -5395,12 +5447,20 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002006uua99p/x0039p71dv9.html",
                 "num": 20
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/b0039ftdfa5.html",
+                "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/a00394197mx.html",
+                "num": 22
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至23集",
+        "updateLast": "更新至26集",
         "tvName": "我是真的爱你",
         "fromUrl": "https://v.qq.com/x/cover/mzc002005lnxijs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002005lnxijs1625642554360/260",
@@ -5498,6 +5558,18 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002005lnxijs/t00392xdvgd.html",
                 "num": 23
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/b0040bmepne.html",
+                "num": 24
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/d0039wlla00.html",
+                "num": 25
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/c0039s03d4m.html",
+                "num": 26
             }
         ]
     }
