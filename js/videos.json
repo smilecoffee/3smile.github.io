@@ -3872,10 +3872,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/d0039pqivl7.html",
                 "num": 150
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/f00392p8klk.html",
+                "num": 151
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至150集",
+        "updateLast": "更新至151集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -5373,7 +5377,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至22集",
+        "updateLast": "更新至24集",
         "tvName": "大唐小吃货",
         "fromUrl": "https://v.qq.com/x/cover/mzc002006uua99p/j0039ho61kj.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002006uua99p1625484134394/260",
@@ -5467,12 +5471,20 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002006uua99p/a00394197mx.html",
                 "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/u0039hc42c4.html",
+                "num": 23
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002006uua99p/d0039q69eb9.html",
+                "num": 24
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至28集",
+        "updateLast": "更新至30集",
         "tvName": "我是真的爱你",
         "fromUrl": "https://v.qq.com/x/cover/mzc002005lnxijs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002005lnxijs1625642554360/260",
@@ -5590,6 +5602,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002005lnxijs/w0039y9xcid.html",
                 "num": 28
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/s003984jgrv.html",
+                "num": 29
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/x00393euhlj.html",
+                "num": 30
             }
         ]
     }
