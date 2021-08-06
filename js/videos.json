@@ -2529,10 +2529,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/d0040w3k3tq.html",
                 "num": 198
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k0040maes19.html",
+                "num": 199
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至198集",
+        "updateLast": "更新至199集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4714,10 +4718,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/m0039uqcz41.html",
                 "num": 88
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/r0039re213w.html",
+                "num": 89
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至88集",
+        "updateLast": "更新至89集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4861,7 +4869,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至11集",
+        "updateLast": "更新至12集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -4911,6 +4919,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0039x1z6t8.html",
                 "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/v0039tiidp4.html",
+                "num": 12
             }
         ]
     },
@@ -5086,6 +5098,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0039x1z6t8.html",
                 "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/v0039tiidp4.html",
+                "num": 12
             }
         ]
     },
@@ -5536,7 +5552,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至32集",
+        "updateLast": "更新至34集",
         "tvName": "我是真的爱你",
         "fromUrl": "https://v.qq.com/x/cover/mzc002005lnxijs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002005lnxijs1625642554360/260",
@@ -5670,6 +5686,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002005lnxijs/b0039c0m1jy.html",
                 "num": 32
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/a0039vuj6ag.html",
+                "num": 33
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/j00392da9pp.html",
+                "num": 34
             }
         ]
     }
