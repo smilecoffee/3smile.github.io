@@ -1563,10 +1563,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/c0040ru3j7e.html",
                 "num": 151
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/a0040lwcauy.html",
+                "num": 152
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至151集",
+        "updateLast": "更新至152集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -2541,10 +2545,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k0040maes19.html",
                 "num": 199
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/f004098az11.html",
+                "num": 200
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至199集",
+        "updateLast": "更新至200集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4375,10 +4383,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/d0040ogl1f9.html",
                 "num": 38
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/n0040eq25pg.html",
+                "num": 39
             }
         ],
         "updateNotify": "每周二、周六10:00更新1集",
-        "updateLast": "更新至38集",
+        "updateLast": "更新至39集",
         "tvName": "万界独尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1617084918676/130",
         "headTime": 100,
@@ -5588,7 +5600,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至39集",
+        "updateLast": "全40集",
         "tvName": "我是真的爱你",
         "fromUrl": "https://v.qq.com/x/cover/mzc002005lnxijs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002005lnxijs1625642554360/260",
@@ -5750,6 +5762,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc002005lnxijs/k0039rmhvu0.html",
                 "num": 39
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002005lnxijs/l0039le3akm.html",
+                "num": 40
             }
         ]
     }
