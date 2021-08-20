@@ -2569,10 +2569,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0040zrxsl4.html",
                 "num": 202
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/x0040b1lpz6.html",
+                "num": 203
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至202集",
+        "updateLast": "更新至203集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4818,10 +4822,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/q00390ejs8d.html",
                 "num": 92
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/v00404ymfl9.html",
+                "num": 93
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至92集",
+        "updateLast": "更新至93集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -4981,7 +4989,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至15集",
+        "updateLast": "更新至16集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5047,6 +5055,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0040su3xw3.html",
                 "num": 15
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/x0040u4kbs7.html",
+                "num": 16
             }
         ]
     },
@@ -5238,6 +5250,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0040su3xw3.html",
                 "num": 15
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/x0040u4kbs7.html",
+                "num": 16
             }
         ]
     },
