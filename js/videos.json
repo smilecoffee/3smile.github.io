@@ -3250,10 +3250,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/w00398hub94.html",
                 "num": 134
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0040kgm221.html",
+                "num": 135
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至134集",
+        "updateLast": "更新至135集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5081,10 +5085,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/n0040kziskz.html",
                 "num": 38
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/z0040gf9a7t.html",
+                "num": 39
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至38集",
+        "updateLast": "更新至39集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
