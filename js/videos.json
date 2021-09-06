@@ -5965,5 +5965,44 @@
                 "num": 38
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至07集",
+        "tvName": "云南虫谷",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200wk4wxlp.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wk4wxlp1630327227371/260",
+        "headTime": 60,
+        "tailTime": 3000,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/x0040k2j0ii.html",
+                "num": 1
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/d0040ujb7gj.html",
+                "num": 2
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/w0040877t4x.html",
+                "num": 3
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/e0040v2rrfz.html",
+                "num": 4
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/g0040tbre9u.html",
+                "num": 5
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/j0040bvahv5.html",
+                "num": 6
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/p0040sxxwyh.html",
+                "num": 7
+            }
+        ]
     }
 ]
