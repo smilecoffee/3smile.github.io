@@ -1611,10 +1611,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/d0040mdvv3u.html",
                 "num": 159
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/p0040xcwvc7.html",
+                "num": 160
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至159集",
+        "updateLast": "更新至160集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -2621,10 +2625,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/l00401wn5mj.html",
                 "num": 207
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m00405uc8w9.html",
+                "num": 208
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至207集",
+        "updateLast": "更新至208集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4551,10 +4559,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/v0040beo94p.html",
                 "num": 46
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u004039zzs8.html",
+                "num": 47
             }
         ],
         "updateNotify": "每周二、周六10:00更新1集",
-        "updateLast": "更新至46集",
+        "updateLast": "更新至47集",
         "tvName": "万界独尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1617084918676/130",
         "headTime": 100,
@@ -5968,7 +5980,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至07集",
+        "updateLast": "更新至14集",
         "tvName": "云南虫谷",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200wk4wxlp.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wk4wxlp1630327227371/260",
@@ -6002,6 +6014,34 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/p0040sxxwyh.html",
                 "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/l00407nca0u.html",
+                "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/m0040hj3c7d.html",
+                "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/h0040nik9gk.html",
+                "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/r0040n8osld.html",
+                "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/m00404hecrv.html",
+                "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/d0040zd05z7.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/j00401l468x.html",
+                "num": 14
             }
         ]
     }
