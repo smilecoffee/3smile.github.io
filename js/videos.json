@@ -5825,7 +5825,7 @@
         "tvName": "云南虫谷",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200wk4wxlp.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wk4wxlp1630327227371/260",
-        "headTime": 60,
+        "headTime": 120,
         "tailTime": 3000,
         "sections": [
             {
@@ -5883,6 +5883,49 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wk4wxlp/j00401l468x.html",
                 "num": 14
+            }
+        ]
+    },
+    {
+        "updateNotify": "追剧日历·VIP会员20点首更6集，周三周四更新2集，周五周六更新1集，之后每周日至周二更新2集；9月15日10点起，VIP尊享超前点播，提前看6集",
+        "updateLast": "",
+        "tvName": "君九龄",
+        "fromUrl": "https://v.youku.com/v_show/id_XNTE5NzY0ODUyMA==.html?s=eaacd78a6f8d48fe9987&scm=20140719.manual.15359.show_eaacd78a6f8d48fe9987&spm=a2ha1.14919748_WEBTV_JINGXUAN.drawer2.d_zj1_1&s=eaacd78a6f8d48fe9987",
+        "coverimg": "https://m.ykimg.com/052600006136C8633329D41641ACE0E3",
+        "headTime": 60,
+        "tailTime": 3000,
+        "sections": [
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY0ODUyMA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 1
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY0ODUwOA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 2
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MTQyNA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 3
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUzMg==.html?s=eaacd78a6f8d48fe9987",
+                "num": 4
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUyNA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 5
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUyOA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 6
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzU0MA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 7
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUzNg==.html?s=eaacd78a6f8d48fe9987",
+                "num": 8
             }
         ]
     }
