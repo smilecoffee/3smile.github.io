@@ -2629,10 +2629,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m00405uc8w9.html",
                 "num": 208
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/o00402nc8js.html",
+                "num": 209
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至208集",
+        "updateLast": "更新至209集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -3278,10 +3282,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/w00405x8vks.html",
                 "num": 136
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z0040x970dg.html",
+                "num": 137
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至136集",
+        "updateLast": "更新至137集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -4970,10 +4978,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/i0040m9nx9x.html",
                 "num": 98
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/f0040lpk8d6.html",
+                "num": 99
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至98集",
+        "updateLast": "更新至99集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5141,10 +5153,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/s0040ydoea2.html",
                 "num": 40
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/l0040bmm20o.html",
+                "num": 41
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至40集",
+        "updateLast": "更新至41集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
@@ -5153,7 +5169,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至21集",
+        "updateLast": "更新至22集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5243,6 +5259,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q0040krkevh.html",
                 "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f00404t3nw7.html",
+                "num": 22
             }
         ]
     },
@@ -5458,6 +5478,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q0040krkevh.html",
                 "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f00404t3nw7.html",
+                "num": 22
             }
         ]
     },
@@ -5926,6 +5950,14 @@
             {
                 "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUzNg==.html?s=eaacd78a6f8d48fe9987",
                 "num": 8
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzcyOTEwMA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 9
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzcyMjg3Mg==.html?s=eaacd78a6f8d48fe9987",
+                "num": 10
             }
         ]
     }
