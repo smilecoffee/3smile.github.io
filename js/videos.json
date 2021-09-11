@@ -842,10 +842,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/a004009yqj8.html",
                 "num": 172
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/y0040lmaeuk.html",
+                "num": 173
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至172集",
+        "updateLast": "更新至173集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -4064,10 +4068,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/s0040ylnl3u.html",
                 "num": 161
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/n0040jfly7f.html",
+                "num": 162
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至161集",
+        "updateLast": "更新至162集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -4575,10 +4583,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u004039zzs8.html",
                 "num": 47
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/b0040kaxluz.html",
+                "num": 48
             }
         ],
         "updateNotify": "每周二、周六10:00更新1集",
-        "updateLast": "更新至47集",
+        "updateLast": "更新至48集",
         "tvName": "万界独尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1617084918676/130",
         "headTime": 100,
@@ -5157,10 +5169,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/l0040bmm20o.html",
                 "num": 41
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/d0040tc02sh.html",
+                "num": 42
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至41集",
+        "updateLast": "更新至42集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
@@ -5958,6 +5974,10 @@
             {
                 "url": "http://v.youku.com/v_show/id_XNTE5NzcyMjg3Mg==.html?s=eaacd78a6f8d48fe9987",
                 "num": 10
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzcyNTc3Ng==.html?s=eaacd78a6f8d48fe9987",
+                "num": 11
             }
         ]
     }
