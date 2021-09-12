@@ -1619,10 +1619,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/p0040xcwvc7.html",
                 "num": 160
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/b0040l2co05.html",
+                "num": 161
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至160集",
+        "updateLast": "更新至161集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -5978,6 +5982,10 @@
             {
                 "url": "http://v.youku.com/v_show/id_XNTE5NzcyNTc3Ng==.html?s=eaacd78a6f8d48fe9987",
                 "num": 11
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5NzczMzg3Ng==.html?s=eaacd78a6f8d48fe9987",
+                "num": 12
             }
         ]
     }
