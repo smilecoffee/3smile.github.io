@@ -3294,10 +3294,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z0040x970dg.html",
                 "num": 137
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/k0040eex97i.html",
+                "num": 138
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至137集",
+        "updateLast": "更新至138集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -4998,10 +5002,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/f0040lpk8d6.html",
                 "num": 99
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/d0040ts23wc.html",
+                "num": 100
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至99集",
+        "updateLast": "更新至100集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5189,7 +5197,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至22集",
+        "updateLast": "更新至23集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5283,6 +5291,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f00404t3nw7.html",
                 "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/b0040vlo5r5.html",
+                "num": 23
             }
         ]
     },
@@ -5502,6 +5514,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f00404t3nw7.html",
                 "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/b0040vlo5r5.html",
+                "num": 23
             }
         ]
     },
@@ -5986,6 +6002,14 @@
             {
                 "url": "http://v.youku.com/v_show/id_XNTE5NzczMzg3Ng==.html?s=eaacd78a6f8d48fe9987",
                 "num": 12
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3MTU0OA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 13
+            },
+            {
+                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3MTcwNA==.html?s=eaacd78a6f8d48fe9987",
+                "num": 14
             }
         ]
     }
