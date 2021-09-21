@@ -6039,110 +6039,30 @@
         ]
     },
     {
-        "updateNotify": "追剧日历·VIP会员每周日至周二20点抢先看，每周三10点VIP尊享超前点播",
+        "updateNotify": "",
         "updateLast": "",
         "tvName": "君九龄",
-        "fromUrl": "https://v.youku.com/v_show/id_XNTE5NzY0ODUyMA==.html?s=eaacd78a6f8d48fe9987&scm=20140719.manual.15359.show_eaacd78a6f8d48fe9987&spm=a2ha1.14919748_WEBTV_JINGXUAN.drawer2.d_zj1_1&s=eaacd78a6f8d48fe9987",
+        "fromUrl": "https://so.youku.com/search_video/q_%E5%90%9B%E4%B9%9D%E9%BE%84?searchfrom=1",
         "coverimg": "https://m.ykimg.com/052600006136C8633329D41641ACE0E3",
         "headTime": 134,
         "tailTime": 3000,
         "sections": [
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY0ODUyMA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 1
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY0ODUwOA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 2
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MTQyNA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 3
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUzMg==.html?s=eaacd78a6f8d48fe9987",
-                "num": 4
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUyNA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 5
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUyOA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 6
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzU0MA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 7
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzY1MzUzNg==.html?s=eaacd78a6f8d48fe9987",
-                "num": 8
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzcyOTEwMA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 9
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzcyMjg3Mg==.html?s=eaacd78a6f8d48fe9987",
-                "num": 10
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzcyNTc3Ng==.html?s=eaacd78a6f8d48fe9987",
-                "num": 11
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzczMzg3Ng==.html?s=eaacd78a6f8d48fe9987",
-                "num": 12
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3MTU0OA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 13
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3MTcwNA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 14
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzczNTU0OA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 15
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5NzczNTU0NA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 16
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3NzEwOA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 17
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzc3ODQyNA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 18
-            },
-            {
+			{
                 "url": "http://v.youku.com/v_show/id_XNTE5Nzc3ODc5Ng==.html?s=eaacd78a6f8d48fe9987",
                 "num": 19
             },
-            {
+			{
                 "url": "http://v.youku.com/v_show/id_XNTE5Nzc3OTIxNg==.html?s=eaacd78a6f8d48fe9987",
                 "num": 20
             },
-            {
+			{
                 "url": "http://v.youku.com/v_show/id_XNTE5Nzg2MzQ5Mg==.html?s=eaacd78a6f8d48fe9987",
                 "num": 21
             },
-            {
+			{
                 "url": "http://v.youku.com/v_show/id_XNTE5Nzg2MzUwMA==.html?s=eaacd78a6f8d48fe9987",
                 "num": 22
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzg2MzQ5Ng==.html?s=eaacd78a6f8d48fe9987",
-                "num": 23
-            },
-            {
-                "url": "http://v.youku.com/v_show/id_XNTE5Nzg2MzUwNA==.html?s=eaacd78a6f8d48fe9987",
-                "num": 24
             }
-        ]
+		]
     }
 ]
