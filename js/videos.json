@@ -857,7 +857,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至174集",
+        "updateLast": "更新至175集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -1643,10 +1643,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/h004038u1ac.html",
                 "num": 164
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/y0040ifbtn6.html",
+                "num": 165
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至164集",
+        "updateLast": "更新至165集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -4140,10 +4144,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/n0040tggqbc.html",
                 "num": 165
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/l0040miylbx.html",
+                "num": 166
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至165集",
+        "updateLast": "更新至166集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -5277,10 +5285,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/o00405tnviv.html",
                 "num": 45
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/y0040ad005v.html",
+                "num": 46
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至45集",
+        "updateLast": "更新至46集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
