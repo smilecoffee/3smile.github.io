@@ -3350,10 +3350,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/w0040r7v44y.html",
                 "num": 141
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/c00405xdgie.html",
+                "num": 142
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至141集",
+        "updateLast": "更新至142集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5094,10 +5098,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/e0040l32hjp.html",
                 "num": 103
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/f00404d6nvi.html",
+                "num": 104
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至103集",
+        "updateLast": "更新至104集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5301,7 +5309,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至26集",
+        "updateLast": "更新至27集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5411,6 +5419,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c00408i0420.html",
                 "num": 26
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a0040i2pjrv.html",
+                "num": 27
             }
         ]
     },
@@ -5646,6 +5658,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c00408i0420.html",
                 "num": 26
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a0040i2pjrv.html",
+                "num": 27
             }
         ]
     },
