@@ -2749,10 +2749,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m0040e0bc3i.html",
                 "num": 220
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/h0040b8aqtd.html",
+                "num": 221
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至220集",
+        "updateLast": "更新至221集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -5250,10 +5254,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/g0040w97jvo.html",
                 "num": 110
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/x0040vim58q.html",
+                "num": 111
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至110集",
+        "updateLast": "更新至111集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5485,7 +5493,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至33集",
+        "updateLast": "更新至34集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5623,6 +5631,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/y004084tv7u.html",
                 "num": 33
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/m004030z8v6.html",
+                "num": 34
             }
         ]
     },
@@ -5886,6 +5898,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/y004084tv7u.html",
                 "num": 33
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/m004030z8v6.html",
+                "num": 34
             }
         ]
     },
