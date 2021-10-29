@@ -874,6 +874,10 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
                 "num": 181
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
+                "num": 181
             }
         ],
         "updateNotify": "每周六10点更新1集",
@@ -2773,10 +2777,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0040nxljoa.html",
                 "num": 222
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0040zp7b8n.html",
+                "num": 223
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至222集",
+        "updateLast": "更新至223集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -5298,10 +5306,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/t00403j96bw.html",
                 "num": 112
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/p00404n5k67.html",
+                "num": 113
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至112集",
+        "updateLast": "更新至113集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5541,7 +5553,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至35集",
+        "updateLast": "更新至36集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5687,6 +5699,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a00402cr25k.html",
                 "num": 35
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j00401dc9vz.html",
+                "num": 36
             }
         ]
     },
@@ -5958,6 +5974,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a00402cr25k.html",
                 "num": 35
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j00401dc9vz.html",
+                "num": 36
             }
         ]
     }
