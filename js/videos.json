@@ -852,8 +852,8 @@
                 "num": 174
             },
             {
-                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/i00401ejbmw.html",
-                "num": 176
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w0040ccpfyo.html",
+                "num": 175
             },
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/o0040nw76id.html",
@@ -872,16 +872,12 @@
                 "num": 179
             },
             {
-                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
-                "num": 181
-            },
-            {
-                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
-                "num": 181
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w0040i00ghg.html",
+                "num": 180
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至179集",
+        "updateLast": "更新至180集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -4324,10 +4320,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/k0040wu2hi6.html",
                 "num": 175
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/h0040kf43mb.html",
+                "num": 176
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至175集",
+        "updateLast": "更新至176集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -5541,10 +5541,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/p0040s4qo0x.html",
                 "num": 55
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200wzqlm1h/f00409s3pm6.html",
+                "num": 56
             }
         ],
         "updateNotify": "每周四、六10:00更1集",
-        "updateLast": "更新至55集",
+        "updateLast": "更新至56集",
         "tvName": "狂神魔尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200wzqlm1h1609911248049/130",
         "headTime": 105,
@@ -5708,276 +5712,132 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "40集全",
-        "tvName": "阳光之下",
-        "fromUrl": "",
-        "coverimg": "https://1img.hitv.com/preview/sp_images/2020/12/25/20201225184653727.jpg_220x308.jpg",
-        "headTime": 100,
-        "tailTime": 2655,
+        "updateLast": "更新至30集",
+        "tvName": "完美世界",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
+        "headTime": 22,
+        "tailTime": 1200,
         "sections": [
             {
-                "url": "//www.mgtv.com/b/356603/10726639.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0036x5qqsr.html",
                 "num": 1
             },
             {
-                "url": "//www.mgtv.com/b/356603/10726646.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/v0036vajneb.html",
                 "num": 2
             },
             {
-                "url": "//www.mgtv.com/b/356603/10726674.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o0036d6ds0g.html",
                 "num": 3
             },
             {
-                "url": "//www.mgtv.com/b/356603/10726675.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/v0036rq1h3u.html",
                 "num": 4
             },
             {
-                "url": "//www.mgtv.com/b/356603/10733231.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/z0036hyi31y.html",
                 "num": 5
             },
             {
-                "url": "//www.mgtv.com/b/356603/10733232.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/j0036nc2fdz.html",
                 "num": 6
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741276.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g0036jy9vse.html",
                 "num": 7
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741379.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/z0036dz40yr.html",
                 "num": 8
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741455.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0037bycafe.html",
                 "num": 9
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741632.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g00385gkf30.html",
                 "num": 10
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741636.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/s0039uc01nx.html",
                 "num": 11
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741640.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i003950p9la.html",
                 "num": 12
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741643.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/n0039wc5vm9.html",
                 "num": 13
             },
             {
-                "url": "//www.mgtv.com/b/356603/10741646.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c0039f9rexg.html",
                 "num": 14
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794886.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/k0039iepo5q.html",
                 "num": 15
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794887.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/h0039g8842r.html",
                 "num": 16
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794888.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g0039b890zo.html",
                 "num": 17
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794889.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/u0040ltpkyo.html",
                 "num": 18
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794893.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/m0040d6msz8.html",
                 "num": 19
             },
             {
-                "url": "//www.mgtv.com/b/356603/10794897.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/p00407q21b5.html",
                 "num": 20
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813804.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/e00405nejye.html",
                 "num": 21
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813880.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/z00406i997b.html",
                 "num": 22
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813885.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0040rwfoyh.html",
                 "num": 23
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813894.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i004064c2a0.html",
                 "num": 24
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813897.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/v0040j12oxk.html",
                 "num": 25
             },
             {
-                "url": "//www.mgtv.com/b/356603/10813899.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/e00404r7qi4.html",
                 "num": 26
             },
             {
-                "url": "//www.mgtv.com/b/356603/10899379.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/z0040m7belw.html",
                 "num": 27
             },
             {
-                "url": "//www.mgtv.com/b/356603/10896199.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/z0040syxb9c.html",
                 "num": 28
             },
             {
-                "url": "//www.mgtv.com/b/356603/10896445.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/m004095icnm.html",
                 "num": 29
             },
             {
-                "url": "//www.mgtv.com/b/356603/10896498.html?fpa=se",
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o00405n9bsp.html",
                 "num": 30
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10896898.html?fpa=se",
-                "num": 31
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10904308.html?fpa=se",
-                "num": 32
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954223.html?fpa=se",
-                "num": 33
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954239.html?fpa=se",
-                "num": 34
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954252.html?fpa=se",
-                "num": 35
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954290.html?fpa=se",
-                "num": 36
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10955059.html?fpa=se",
-                "num": 37
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10955071.html?fpa=se",
-                "num": 38
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954648.html?fpa=se",
-                "num": 39
-            },
-            {
-                "url": "//www.mgtv.com/b/356603/10954747.html?fpa=se",
-                "num": 40
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0039x1z6t8.html",
-                "num": 11
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/v0039tiidp4.html",
-                "num": 12
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/b00408ibe7e.html",
-                "num": 13
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/k004064evlj.html",
-                "num": 14
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0040su3xw3.html",
-                "num": 15
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/x0040u4kbs7.html",
-                "num": 16
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/v0040l6y4uh.html",
-                "num": 17
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/u0040379n9v.html",
-                "num": 18
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/k00402qaeu3.html",
-                "num": 19
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/o00400bjpmu.html",
-                "num": 20
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q0040krkevh.html",
-                "num": 21
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f00404t3nw7.html",
-                "num": 22
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/b0040vlo5r5.html",
-                "num": 23
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/o0040i4rcb4.html",
-                "num": 24
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/l0040xpg678.html",
-                "num": 25
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c00408i0420.html",
-                "num": 26
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a0040i2pjrv.html",
-                "num": 27
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0040siwhkw.html",
-                "num": 28
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/x00402ulv45.html",
-                "num": 29
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/m0040jz6sby.html",
-                "num": 30
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/g0040nh6k65.html",
-                "num": 31
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/i00403yug5o.html",
-                "num": 32
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/y004084tv7u.html",
-                "num": 33
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/m004030z8v6.html",
-                "num": 34
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a00402cr25k.html",
-                "num": 35
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j00401dc9vz.html",
-                "num": 36
             }
         ]
     }
