@@ -1707,10 +1707,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0040ktnu36.html",
                 "num": 174
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/y0040un378u.html",
+                "num": 175
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至174集",
+        "updateLast": "更新至175集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -3490,10 +3494,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/j0040iso40o.html",
                 "num": 151
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0040504tpy.html",
+                "num": 152
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至151集",
+        "updateLast": "更新至152集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5002,10 +5010,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/p00404n5k67.html",
                 "num": 113
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/b00402uq2bi.html",
+                "num": 114
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至113集",
+        "updateLast": "更新至114集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5249,7 +5261,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至36集",
+        "updateLast": "更新至37集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5399,6 +5411,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j00401dc9vz.html",
                 "num": 36
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/e0040dd3ati.html",
+                "num": 37
             }
         ]
     },
