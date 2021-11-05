@@ -2793,10 +2793,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k0040q6pq4e.html",
                 "num": 224
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0040ozb2m5.html",
+                "num": 225
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至224集",
+        "updateLast": "更新至225集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -5030,10 +5034,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/b00402uq2bi.html",
                 "num": 114
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/x0040ngwql1.html",
+                "num": 115
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至114集",
+        "updateLast": "更新至115集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5281,7 +5289,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至37集",
+        "updateLast": "更新至38集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5435,12 +5443,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/e0040dd3ati.html",
                 "num": 37
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/x0040rib3yb.html",
+                "num": 38
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至30集",
+        "updateLast": "更新至31集",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -5566,6 +5578,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o00405n9bsp.html",
                 "num": 30
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/q0041o9mjw8.html",
+                "num": 31
             }
         ]
     }
