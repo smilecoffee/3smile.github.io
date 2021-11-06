@@ -872,11 +872,11 @@
                 "num": 179
             },
             {
-                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
-                "num": 181
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w0040i00ghg.html",
+                "num": 180
             },
             {
-                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/w00402pxu41.html",
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/y00419v3mp4.html",
                 "num": 181
             }
         ],
@@ -5464,8 +5464,8 @@
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
-        "headTime": 24,
-        "tailTime": 120,
+        "headTime": 125,
+        "tailTime": 1200,
         "sections": [
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0036x5qqsr.html",
@@ -5590,6 +5590,541 @@
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/q0041o9mjw8.html",
                 "num": 31
+            }
+        ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至131集",
+        "tvName": "武庚纪",
+        "fromUrl": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n00203449s9.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/ipmc5u3dwb48mv21625718491066/130",
+        "headTime": 160,
+        "tailTime": 855,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0020b47y1z.html",
+                "num": 1
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n00203449s9.html",
+                "num": 2
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/f0020pa88so.html",
+                "num": 3
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/v0021p0s0i7.html",
+                "num": 4
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q0021853bnt.html",
+                "num": 5
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/x0021fdkqsu.html",
+                "num": 6
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0021urv4w7.html",
+                "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r00212wm7sa.html",
+                "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/v0022el6x0y.html",
+                "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/m0022n9hjbh.html",
+                "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/x0022mwknnf.html",
+                "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c0022czcyns.html",
+                "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0022bky8sy.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/f0022p6vf70.html",
+                "num": 14
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/l0022tncfio.html",
+                "num": 15
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/w0022l3kcyk.html",
+                "num": 16
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j00220fhssh.html",
+                "num": 17
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q002355994a.html",
+                "num": 18
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0023mwavol.html",
+                "num": 19
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j002322r8sl.html",
+                "num": 20
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/i0023eo2vut.html",
+                "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z0023b63f3o.html",
+                "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n0023savrst.html",
+                "num": 23
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/i0023wdosd5.html",
+                "num": 24
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/p0024y1me3l.html",
+                "num": 25
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/p002420qqlj.html",
+                "num": 26
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0024p6j3kt.html",
+                "num": 27
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/t0024wqabq5.html",
+                "num": 28
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/p0024pq1nx5.html",
+                "num": 29
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s0024xgg12g.html",
+                "num": 30
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n0025gunfx3.html",
+                "num": 31
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0025l70rjk.html",
+                "num": 32
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z0025sjc604.html",
+                "num": 33
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q0025cdtp1x.html",
+                "num": 34
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r0025t1n8uz.html",
+                "num": 35
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/a0025bx5k3v.html",
+                "num": 36
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s0025ijyn6b.html",
+                "num": 37
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s00257mh839.html",
+                "num": 38
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r00256qyt9o.html",
+                "num": 39
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/v00252obh82.html",
+                "num": 40
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z0026lwuqeu.html",
+                "num": 41
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q00269z8bp6.html",
+                "num": 42
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/f0026kl35lh.html",
+                "num": 43
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/w0026fcee1d.html",
+                "num": 44
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0026jew8ed.html",
+                "num": 45
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z0026oon4ck.html",
+                "num": 46
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n00267mq6l1.html",
+                "num": 47
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c0026k8fu5u.html",
+                "num": 48
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0026zbak9k.html",
+                "num": 49
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e0026hpcfqy.html",
+                "num": 50
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e0026gb9dmd.html",
+                "num": 51
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r0026w1qffy.html",
+                "num": 52
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e0026kn5y8y.html",
+                "num": 53
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/v0026oic388.html",
+                "num": 54
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/a0026gsjn22.html",
+                "num": 55
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/w0026pajmrl.html",
+                "num": 56
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c00269qs010.html",
+                "num": 57
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/t0026bs6k60.html",
+                "num": 58
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0026w1fwx3.html",
+                "num": 59
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/m0026faffy2.html",
+                "num": 60
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/h00271uzu1d.html",
+                "num": 61
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0027whmqlf.html",
+                "num": 62
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/y0027znppbq.html",
+                "num": 63
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0027sfo0jd.html",
+                "num": 64
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/v00272nc0t4.html",
+                "num": 65
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/h0027ou2j7o.html",
+                "num": 66
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g00273jhlz3.html",
+                "num": 67
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/m0027hlyiyi.html",
+                "num": 68
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/o0027jitixz.html",
+                "num": 69
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0027gix4dm.html",
+                "num": 70
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/x0027w99yxe.html",
+                "num": 71
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q00275qecnf.html",
+                "num": 72
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e00330bsco9.html",
+                "num": 73
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s003381ahll.html",
+                "num": 74
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/o0033dqowy8.html",
+                "num": 75
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n0033okg6da.html",
+                "num": 76
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/d0033uq3q3x.html",
+                "num": 77
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0033vm2kba.html",
+                "num": 78
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/l0033t54f0h.html",
+                "num": 79
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/b0033euvpjn.html",
+                "num": 80
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j00338dwa20.html",
+                "num": 81
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/l0033wtb8cw.html",
+                "num": 82
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e0033ulwj4t.html",
+                "num": 83
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n0033guv01b.html",
+                "num": 84
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c00332tnx0p.html",
+                "num": 85
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c0033s0b8h2.html",
+                "num": 86
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/d0033hqqegc.html",
+                "num": 87
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/i00334u9td3.html",
+                "num": 88
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/p0033kj083p.html",
+                "num": 89
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e00334vt07t.html",
+                "num": 90
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/w0033gm7wr2.html",
+                "num": 91
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/d00339yev10.html",
+                "num": 92
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s00345kqde8.html",
+                "num": 93
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0034jm9rzg.html",
+                "num": 94
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j0034e4wdjf.html",
+                "num": 95
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/l0034imy1ow.html",
+                "num": 96
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/y0034wx4dps.html",
+                "num": 97
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/h0034gcp4uc.html",
+                "num": 98
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g00348vmeoo.html",
+                "num": 99
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r0034nqg3vu.html",
+                "num": 100
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/h0034ukqf53.html",
+                "num": 101
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/l0034rgnlc9.html",
+                "num": 102
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/a0034akqqut.html",
+                "num": 103
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/q0034tbb4x7.html",
+                "num": 104
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e00343lxwcp.html",
+                "num": 105
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0034wdpk1z.html",
+                "num": 106
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/a0034b2l5x5.html",
+                "num": 107
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j0034mkmz0m.html",
+                "num": 108
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/f0034phmwla.html",
+                "num": 109
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/s0034x0q465.html",
+                "num": 110
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z0034jdgqgg.html",
+                "num": 111
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/f0034l2knvs.html",
+                "num": 112
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/m0034ez6cf4.html",
+                "num": 113
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n0034qzkjve.html",
+                "num": 114
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/u0039umihti.html",
+                "num": 115
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/a00399guhse.html",
+                "num": 116
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/p0039xwkji5.html",
+                "num": 117
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/e0040szxepl.html",
+                "num": 118
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/c00406x7ilb.html",
+                "num": 119
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/k0040hae70t.html",
+                "num": 120
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/t0040ctrivj.html",
+                "num": 121
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0040fvwp5i.html",
+                "num": 122
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/y0040qexv8u.html",
+                "num": 123
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/d00404xdpq8.html",
+                "num": 124
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/i0040awducm.html",
+                "num": 125
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/z00407sa6le.html",
+                "num": 126
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/r0040vqzf6s.html",
+                "num": 127
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/t0040d1cdrk.html",
+                "num": 128
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0040frx1c8.html",
+                "num": 129
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/m0040xbpzfb.html",
+                "num": 130
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/i0041x9gwfk.html",
+                "num": 131
             }
         ]
     }
