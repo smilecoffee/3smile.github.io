@@ -1791,10 +1791,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/s0041roawde.html",
                 "num": 189
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/a0041rt2ds9.html",
+                "num": 190
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至189集",
+        "updateLast": "更新至190集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -2921,10 +2925,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/p00410g14yh.html",
                 "num": 237
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/t00415vk5p3.html",
+                "num": 238
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至237集",
+        "updateLast": "更新至238集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -3686,10 +3694,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/a0041hsd0of.html",
                 "num": 165
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/p0041h6apv8.html",
+                "num": 166
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至165集",
+        "updateLast": "更新至166集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5099,10 +5111,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/p0041mhn3ut.html",
                 "num": 127
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/s0041lv4nf1.html",
+                "num": 128
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至127集",
+        "updateLast": "更新至128集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5370,7 +5386,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至50集",
+        "updateLast": "更新至51集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5576,6 +5592,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/g0041xdf13b.html",
                 "num": 50
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/e0041k6mw4v.html",
+                "num": 51
             }
         ]
     },
@@ -6466,7 +6486,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至228集",
+        "updateLast": "更新至229集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -7384,12 +7404,16 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/n0041tcozkp.html",
                 "num": 228
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/w0041chxttw.html",
+                "num": 229
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至12集",
+        "updateLast": "更新至16集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7443,12 +7467,28 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/j00416l5taj.html",
                 "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/x0041wg8yjd.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/b0041j7pdc9.html",
+                "num": 14
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/o0041mwmo05.html",
+                "num": 15
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/n0041wsj7k3.html",
+                "num": 16
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至第10集(共37集)",
+        "updateLast": "更新至第14集(共37集)",
         "tvName": "对手",
         "fromUrl": "https://so.iqiyi.com/so/q_%E5%AF%B9%E6%89%8B?source=input&sr=258565457391&ssrt=20211219165432014&ssra=be3edc8ba8c34ad7ec2cbc1ad1396af6",
         "coverimg": "https://pic4.iqiyipic.com/image/20211213/3d/94/a_100449132_m_601_m7_260_360.jpg",
@@ -7494,6 +7534,22 @@
             {
                 "url": "https://www.iqiyi.com/v_dm4v6fzplg.html",
                 "num": 10
+            },
+            {
+                "url": "https://www.iqiyi.com/v_2bcta84i9zc.html",
+                "num": 11
+            },
+            {
+                "url": "https://www.iqiyi.com/v_16rx9cr4lss.html",
+                "num": 12
+            },
+            {
+                "url": "https://www.iqiyi.com/v_umsfqyxuq8.html",
+                "num": 13
+            },
+            {
+                "url": "https://www.iqiyi.com/v_1kc96rtu69w.html",
+                "num": 14
             }
         ]
     }
