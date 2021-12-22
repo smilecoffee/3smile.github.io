@@ -4592,10 +4592,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/s0041v8hlll.html",
                 "num": 190
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/w0041ax1fre.html",
+                "num": 191
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至190集",
+        "updateLast": "更新至191集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -7413,7 +7417,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至16集",
+        "updateLast": "更新至18集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7483,73 +7487,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/n0041wsj7k3.html",
                 "num": 16
-            }
-        ]
-    },
-    {
-        "updateNotify": "",
-        "updateLast": "更新至第14集(共37集)",
-        "tvName": "对手",
-        "fromUrl": "https://so.iqiyi.com/so/q_%E5%AF%B9%E6%89%8B?source=input&sr=258565457391&ssrt=20211219165432014&ssra=be3edc8ba8c34ad7ec2cbc1ad1396af6",
-        "coverimg": "https://pic4.iqiyipic.com/image/20211213/3d/94/a_100449132_m_601_m7_260_360.jpg",
-        "headTime": 130,
-        "tailTime": 2640,
-        "sections": [
-            {
-                "url": "https://www.iqiyi.com/v_22epz7s120c.html",
-                "num": 1
             },
             {
-                "url": "https://www.iqiyi.com/v_h5xjovl4po.html",
-                "num": 2
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/c00415bgix9.html",
+                "num": 17
             },
             {
-                "url": "https://www.iqiyi.com/v_111kssbejdo.html",
-                "num": 3
-            },
-            {
-                "url": "https://www.iqiyi.com/v_yuasnid68g.html",
-                "num": 4
-            },
-            {
-                "url": "https://www.iqiyi.com/v_ypgy1mcnig.html",
-                "num": 5
-            },
-            {
-                "url": "https://www.iqiyi.com/v_18481aekczk.html",
-                "num": 6
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1yexcpkjmlk.html",
-                "num": 7
-            },
-            {
-                "url": "https://www.iqiyi.com/v_25nx3njihyk.html",
-                "num": 8
-            },
-            {
-                "url": "https://www.iqiyi.com/v_13fyuv19cag.html",
-                "num": 9
-            },
-            {
-                "url": "https://www.iqiyi.com/v_dm4v6fzplg.html",
-                "num": 10
-            },
-            {
-                "url": "https://www.iqiyi.com/v_2bcta84i9zc.html",
-                "num": 11
-            },
-            {
-                "url": "https://www.iqiyi.com/v_16rx9cr4lss.html",
-                "num": 12
-            },
-            {
-                "url": "https://www.iqiyi.com/v_umsfqyxuq8.html",
-                "num": 13
-            },
-            {
-                "url": "https://www.iqiyi.com/v_1kc96rtu69w.html",
-                "num": 14
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/w0041iug6fz.html",
+                "num": 18
             }
         ]
     }
