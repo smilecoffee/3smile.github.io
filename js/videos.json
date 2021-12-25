@@ -902,10 +902,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/b0041fx801u.html",
                 "num": 187
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/a0041rzgbl5.html",
+                "num": 188
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至187集",
+        "updateLast": "更新至188集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -4604,10 +4608,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/w0041ax1fre.html",
                 "num": 191
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/g00415zu8wb.html",
+                "num": 192
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至191集",
+        "updateLast": "更新至192集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -7449,7 +7457,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至20集",
+        "updateLast": "更新至21集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7535,6 +7543,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/p00412bicgs.html",
                 "num": 20
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/z00414w6dow.html",
+                "num": 21
             }
         ]
     }
