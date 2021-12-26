@@ -1799,10 +1799,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/a0041rt2ds9.html",
                 "num": 190
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/o0041orngq0.html",
+                "num": 191
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至190集",
+        "updateLast": "更新至191集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -6355,7 +6359,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至40集",
+        "updateLast": "更新至41集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -6521,6 +6525,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/p0041dddhwk.html",
                 "num": 40
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/m0041j04bg3.html",
+                "num": 41
             }
         ]
     },
@@ -7457,7 +7465,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至21集",
+        "updateLast": "更新至22集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7547,6 +7555,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/z00414w6dow.html",
                 "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/l0041002gi9.html",
+                "num": 22
             }
         ]
     }
