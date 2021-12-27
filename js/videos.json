@@ -3714,10 +3714,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0041sqzpoe.html",
                 "num": 167
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0041vsh2i7.html",
+                "num": 168
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至167集",
+        "updateLast": "更新至168集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5143,10 +5147,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/d0041hlico9.html",
                 "num": 129
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/z00414iirts.html",
+                "num": 130
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至129集",
+        "updateLast": "更新至130集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5414,7 +5422,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至52集",
+        "updateLast": "更新至53集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -5628,6 +5636,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/p0041lxa7e6.html",
                 "num": 52
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/u00411kdrdd.html",
+                "num": 53
             }
         ]
     },
@@ -6534,7 +6546,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至230集",
+        "updateLast": "更新至231集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -7460,12 +7472,16 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l0041j8zli8.html",
                 "num": 230
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l0041mw0irk.html",
+                "num": 231
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至22集",
+        "updateLast": "更新至23集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7559,6 +7575,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/l0041002gi9.html",
                 "num": 22
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/c0041lycl9c.html",
+                "num": 23
             }
         ]
     }
