@@ -4628,10 +4628,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/g00415zu8wb.html",
                 "num": 192
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/w0041mon1mr.html",
+                "num": 193
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至192集",
+        "updateLast": "更新至193集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -7489,7 +7493,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至24集",
+        "updateLast": "更新至25集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7591,6 +7595,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/s0041lrgi3f.html",
                 "num": 24
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/x0041iinn2t.html",
+                "num": 25
             }
         ]
     }
