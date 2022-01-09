@@ -1827,10 +1827,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/z00417jyopb.html",
                 "num": 194
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/k0041d5uawf.html",
+                "num": 195
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至194集",
+        "updateLast": "更新至195集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -6466,12 +6470,16 @@
             {
                 "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/g0041u3oo80.html",
                 "num": 138
+            },
+            {
+                "url": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/j0041wrjjig.html",
+                "num": 139
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至44集",
+        "updateLast": "更新至45集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -6653,6 +6661,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/z0041y6el3m.html",
                 "num": 44
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/d0041mho56x.html",
+                "num": 45
             }
         ]
     },
@@ -7605,7 +7617,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至35集",
+        "updateLast": "更新至36集",
         "tvName": "雪中悍刀行",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020020cyvqh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020020cyvqh1639133654327/130",
@@ -7751,6 +7763,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/z0041ec0rop.html",
                 "num": 35
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020020cyvqh/o00415fhnh5.html",
+                "num": 36
             }
         ]
     }
