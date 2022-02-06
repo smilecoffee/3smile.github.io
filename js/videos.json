@@ -926,10 +926,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/a004214qebp.html",
                 "num": 193
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/v00420y5pae.html",
+                "num": 194
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至193集",
+        "updateLast": "更新至194集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -1867,10 +1871,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/g0041ddz71t.html",
                 "num": 202
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/x0041ov71zc.html",
+                "num": 203
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至202集",
+        "updateLast": "更新至203集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -4820,10 +4828,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/y0041hgdz1x.html",
                 "num": 203
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/c0041w15zen.html",
+                "num": 204
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至203集",
+        "updateLast": "更新至204集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -6687,7 +6699,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至52集",
+        "updateLast": "更新至53集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -6901,6 +6913,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/y0041t2gyqa.html",
                 "num": 52
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/j0041jwhmuf.html",
+                "num": 53
             }
         ]
     },
@@ -8119,7 +8135,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至40集",
+        "updateLast": "更新至41集",
         "tvName": "星辰变",
         "fromUrl": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1629083258839/130",
@@ -8285,6 +8301,10 @@
             {
                 "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/m0041617k28.html",
                 "num": 40
+            },
+            {
+                "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/o00410j43f2.html",
+                "num": 41
             }
         ]
     }
