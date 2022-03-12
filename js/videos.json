@@ -946,10 +946,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/d0042t0jxxg.html",
                 "num": 198
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/p0042i97dxa.html",
+                "num": 199
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至198集",
+        "updateLast": "更新至199集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -5000,10 +5004,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e0042dp5pnp.html",
                 "num": 213
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/f0042uyjkpn.html",
+                "num": 214
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至213集",
+        "updateLast": "更新至214集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
