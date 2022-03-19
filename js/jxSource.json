@@ -1,5 +1,5 @@
 [
-	{"url":"https://api.okjx.cc:3389/jx.php?url=","jxType":"iframe"},
+	{"url":"https://jx.parwix.com:4433/player/analysis.php?v=","jxType":"dom"},
 	{"url":"https://jx.parwix.com:4433/player/?url=","jxType":"iframe"},
         {"url":"https://jx.ppflv.com/?url=","jxType":"iframe"},
 	{"url":"https://jx.aidouer.net/?url=","jxType":"iframe"}
