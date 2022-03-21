@@ -1943,10 +1943,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/w004255f553.html",
                 "num": 214
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/t0042fyv8mm.html",
+                "num": 215
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至214集",
+        "updateLast": "更新至215集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -4046,10 +4050,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/v004236f3tm.html",
                 "num": 191
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/m0042p9wlc3.html",
+                "num": 192
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至191集",
+        "updateLast": "更新至192集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5667,10 +5675,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/b0042l734fb.html",
                 "num": 153
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/u00424vgi2n.html",
+                "num": 154
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至153集",
+        "updateLast": "更新至154集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5938,7 +5950,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至76集",
+        "updateLast": "更新至77集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6248,6 +6260,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/g0042xmiki1.html",
                 "num": 76
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c004262a5or.html",
+                "num": 77
             }
         ]
     },
@@ -7031,7 +7047,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至64集",
+        "updateLast": "更新至65集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7293,12 +7309,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/u00427ghzhx.html",
                 "num": 64
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/r0042uzh7zz.html",
+                "num": 65
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至254集",
+        "updateLast": "更新至255集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -8320,6 +8340,10 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/c0042u4rzjh.html",
                 "num": 254
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/c0042lqtafx.html",
+                "num": 255
             }
         ]
     },
@@ -8559,7 +8583,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至46集",
+        "updateLast": "更新至47集",
         "tvName": "星辰变",
         "fromUrl": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1629083258839/130",
@@ -8749,6 +8773,10 @@
             {
                 "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/z00420ejddn.html",
                 "num": 46
+            },
+            {
+                "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/q0042x9zq7l.html",
+                "num": 47
             }
         ]
     },
