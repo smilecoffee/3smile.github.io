@@ -3189,10 +3189,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/e0042rkns7j.html",
                 "num": 264
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0042m8ja0u.html",
+                "num": 265
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至264集",
+        "updateLast": "更新至265集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 146,
@@ -4032,11 +4036,11 @@
                 "num": 184
             },
             {
-                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/r00410y2eex.html",
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o00416035t3.html",
                 "num": 185
             },
             {
-                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o00416035t3.html",
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/t0041285ze6.html",
                 "num": 186
             },
             {
@@ -5695,10 +5699,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/u00424vgi2n.html",
                 "num": 154
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/u00424fdb00.html",
+                "num": 155
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至154集",
+        "updateLast": "更新至155集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -5966,7 +5974,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至77集",
+        "updateLast": "更新至78集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6280,12 +6288,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c004262a5or.html",
                 "num": 77
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/d004276gjhj.html",
+                "num": 78
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至50集",
+        "updateLast": "更新至51集",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -6491,6 +6503,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0042ozqrco.html",
                 "num": 50
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c0042dw2d6x.html",
+                "num": 51
             }
         ]
     },
@@ -8567,89 +8583,6 @@
             {
                 "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/q0042x9zq7l.html",
                 "num": 47
-            }
-        ]
-    },
-    {
-        "updateNotify": "",
-        "updateLast": "18集全",
-        "tvName": "花间提壶方大厨第1季",
-        "fromUrl": "https://so.iqiyi.com/so/q_%E8%8A%B1%E9%97%B4%E6%8F%90%E5%A3%B6%E6%96%B9%E5%A4%A7%E5%8E%A8%E7%AC%AC1%E5%AD%A3?source=",
-        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1629083258839/130",
-        "headTime": 60,
-        "tailTime": 2400,
-        "sections": [
-            {
-                "url": "https://www.iqiyi.com/v_19rrbcn23w.html",
-                "num": 1
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbm4m4.html",
-                "num": 2
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbi0vw.html",
-                "num": 3
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbhsvg.html",
-                "num": 4
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbj2jk.html",
-                "num": 5
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbivys.html",
-                "num": 6
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbazx3o.html",
-                "num": 7
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbaz0c8.html",
-                "num": 8
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbayu60.html",
-                "num": 9
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbo4qk.html",
-                "num": 10
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbs3kw.html",
-                "num": 11
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbry64.html",
-                "num": 12
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbru30.html",
-                "num": 13
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbb4uig.html",
-                "num": 14
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbb8ypw.html",
-                "num": 15
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbb6uhg.html",
-                "num": 16
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbblx0.html",
-                "num": 17
-            },
-            {
-                "url": "https://www.iqiyi.com/v_19rrbbsg18.html",
-                "num": 18
             }
         ]
     }
