@@ -1967,10 +1967,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/i0042wz6lwl.html",
                 "num": 218
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/h0042h3rrnh.html",
+                "num": 219
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至218集",
+        "updateLast": "更新至219集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -7143,7 +7147,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至68集",
+        "updateLast": "更新至69集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7421,6 +7425,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/k0042hvnaiz.html",
                 "num": 68
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x0042eod37h.html",
+                "num": 69
             }
         ]
     },
@@ -8469,7 +8477,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至48集",
+        "updateLast": "更新至49集",
         "tvName": "星辰变",
         "fromUrl": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1629083258839/130",
@@ -8667,6 +8675,10 @@
             {
                 "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/z0042cnjd6d.html",
                 "num": 48
+            },
+            {
+                "url": "https://v.qq.com/x/cover/0s8n49g3g1rv1oz/a00427du3fv.html",
+                "num": 49
             }
         ]
     },
@@ -8755,7 +8767,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至第15集(共40集)",
+        "updateLast": "更新至第18集(共40集)",
         "tvName": "原来是老师啊",
         "fromUrl": "https://so.iqiyi.com/so/q_%25E5%258E%259F%25E6%259D%25A5%25E6%2598%25AF%25E8%2580%2581%25E5%25B8%2588%25E5%2595%258A%25EF%25BC%2581?source=suggest",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1629083258839/130",
@@ -8821,6 +8833,18 @@
             {
                 "url": "https://www.iqiyi.com/v_dtjw1b9fg8.html",
                 "num": 15
+            },
+            {
+                "url": "https://www.iqiyi.com/v_atpm4gabjc.html",
+                "num": 16
+            },
+            {
+                "url": "https://www.iqiyi.com/v_1ne1m8iw1v0.html",
+                "num": 17
+            },
+            {
+                "url": "https://www.iqiyi.com/v_21ziosd8pmg.html",
+                "num": 18
             }
         ]
     }
