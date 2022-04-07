@@ -4118,10 +4118,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/s0042h5e1zh.html",
                 "num": 196
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/r0042gu6a99.html",
+                "num": 197
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至196集",
+        "updateLast": "更新至197集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5132,10 +5136,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e004266guau.html",
                 "num": 220
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e0042z8f03l.html",
+                "num": 221
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至220集",
+        "updateLast": "更新至221集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -7167,7 +7175,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至69集",
+        "updateLast": "更新至70集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7449,12 +7457,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x0042eod37h.html",
                 "num": 69
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/l0042krn6p8.html",
+                "num": 70
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至259集",
+        "updateLast": "更新至260集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -8496,6 +8508,10 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/j0042hv0yh8.html",
                 "num": 259
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/m0042122s4k.html",
+                "num": 260
             }
         ]
     },
