@@ -962,10 +962,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/q0042w4awsx.html",
                 "num": 202
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/y0042h1qw2f.html",
+                "num": 203
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至202集",
+        "updateLast": "更新至203集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -4076,11 +4080,11 @@
                 "num": 184
             },
             {
-                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o00416035t3.html",
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/r00410y2eex.html",
                 "num": 185
             },
             {
-                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/t0041285ze6.html",
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o00416035t3.html",
                 "num": 186
             },
             {
@@ -5144,10 +5148,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/e0042z8f03l.html",
                 "num": 221
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/m00421fwxn7.html",
+                "num": 222
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至221集",
+        "updateLast": "更新至222集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -6406,7 +6414,7 @@
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
-        "tailTime": 2400,
+        "tailTime": 1920,
         "sections": [
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0036x5qqsr.html",
