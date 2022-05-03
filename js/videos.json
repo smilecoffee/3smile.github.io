@@ -2019,10 +2019,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/s0042o029bb.html",
                 "num": 227
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/s0042rluhnp.html",
+                "num": 228
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至227集",
+        "updateLast": "更新至228集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -3301,10 +3305,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k00426442iw.html",
                 "num": 275
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/t0042zpk4lw.html",
+                "num": 276
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至275集",
+        "updateLast": "更新至276集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
@@ -9299,7 +9307,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至20集",
+        "updateLast": "更新至22集",
         "tvName": "且试天下",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200v3lnbmd.html",
         "coverimg": "https://puui.qpic.cn/vcover_hz_pic/0/mzc00200v3lnbmd1650207570814/0",
@@ -9385,6 +9393,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/s00428himj7.html",
                 "num": 20
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/b0042zt030z.html",
+                "num": 21
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/p0042xemvdf.html",
+                "num": 22
             }
         ]
     }
