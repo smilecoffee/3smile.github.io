@@ -9275,5 +9275,56 @@
                 "num": 26
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至10集",
+        "tvName": "反转人生",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200xnh1fzz.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200xnh1fzz1646363145930/130",
+        "headTime": 90,
+        "tailTime": 2700,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/c00424cdfym.html",
+                "num": 1
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/j0042agxd7y.html",
+                "num": 2
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/p0042dforok.html",
+                "num": 3
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/w0042st0e1h.html",
+                "num": 4
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/k00421fubcx.html",
+                "num": 5
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/v00422ule6n.html",
+                "num": 6
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/b00429sagmu.html",
+                "num": 7
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/t0042zr4dy4.html",
+                "num": 8
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/o0042t8kq1e.html",
+                "num": 9
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/o0042l24fs6.html",
+                "num": 10
+            }
+        ]
     }
 ]
