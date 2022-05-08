@@ -2027,10 +2027,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/s0042rluhnp.html",
                 "num": 228
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/o0042rxgr85.html",
+                "num": 229
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至228集",
+        "updateLast": "更新至229集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -7423,7 +7427,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至78集",
+        "updateLast": "更新至79集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7741,6 +7745,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/l00420osh4p.html",
                 "num": 78
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/i0042amgomj.html",
+                "num": 79
             }
         ]
     },
@@ -9278,7 +9286,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集",
+        "updateLast": "更新至12集",
         "tvName": "反转人生",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200xnh1fzz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200xnh1fzz1646363145930/130",
@@ -9324,6 +9332,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/o0042l24fs6.html",
                 "num": 10
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/r0042l4i8g2.html",
+                "num": 11
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/a0042j3m9z8.html",
+                "num": 12
             }
         ]
     }
