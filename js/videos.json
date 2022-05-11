@@ -5312,10 +5312,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/t0042dm2bj2.html",
                 "num": 230
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/r0042ur1lgq.html",
+                "num": 231
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至230集",
+        "updateLast": "更新至231集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -9164,7 +9168,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至30集",
+        "updateLast": "更新至32集",
         "tvName": "且试天下",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200v3lnbmd.html",
         "coverimg": "https://puui.qpic.cn/vcover_hz_pic/0/mzc00200v3lnbmd1650207570814/0",
@@ -9290,6 +9294,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/j0042vyxher.html",
                 "num": 30
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/x0042aoo9hf.html",
+                "num": 31
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/j0042pf1t0p.html",
+                "num": 32
             }
         ]
     },
@@ -9341,6 +9353,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/j0042vyxher.html",
                 "num": 30
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/x0042aoo9hf.html",
+                "num": 31
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200v3lnbmd/j0042pf1t0p.html",
+                "num": 32
             }
         ]
     },
