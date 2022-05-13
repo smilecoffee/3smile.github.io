@@ -3329,10 +3329,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k00425xtvw9.html",
                 "num": 278
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/y0042w2tirb.html",
+                "num": 279
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至278集",
+        "updateLast": "更新至279集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
@@ -6003,10 +6007,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/m00428w06j0.html",
                 "num": 168
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/p0042ya80mr.html",
+                "num": 169
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至168集",
+        "updateLast": "更新至169集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -6274,7 +6282,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至91集",
+        "updateLast": "更新至92集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6644,12 +6652,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/l0042c215aq.html",
                 "num": 91
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/u0042w8u12j.html",
+                "num": 92
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至57集",
+        "updateLast": "更新至58集",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -6883,12 +6895,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o0042xfyy4u.html",
                 "num": 57
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c00421elv2d.html",
+                "num": 58
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至138集",
+        "updateLast": "全30集",
         "tvName": "武庚纪",
         "fromUrl": "https://v.qq.com/x/cover/ipmc5u3dwb48mv2/n00203449s9.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/ipmc5u3dwb48mv21625718491066/130",
@@ -9394,7 +9410,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至12集",
+        "updateLast": "更新至14集",
         "tvName": "反转人生",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200xnh1fzz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200xnh1fzz1646363145930/130",
@@ -9448,6 +9464,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/a0042j3m9z8.html",
                 "num": 12
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/s0042a1j5qv.html",
+                "num": 13
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xnh1fzz/k0042l1nnu8.html",
+                "num": 14
             }
         ]
     }
