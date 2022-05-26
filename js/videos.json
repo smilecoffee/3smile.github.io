@@ -4314,10 +4314,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/t0042u7qkg7.html",
                 "num": 210
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/j0042jywxe4.html",
+                "num": 211
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至210集",
+        "updateLast": "更新至211集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -6737,7 +6741,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至83集",
+        "updateLast": "更新至84集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7075,12 +7079,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/a0042y8k1fk.html",
                 "num": 83
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/a0042kx7zqc.html",
+                "num": 84
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至273集",
+        "updateLast": "更新至274集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -8178,6 +8186,10 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/z0042rfj8pa.html",
                 "num": 273
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/c0042b4ydi6.html",
+                "num": 274
             }
         ]
     },
