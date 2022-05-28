@@ -990,10 +990,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/d0042smowyj.html",
                 "num": 209
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/n0042zep6qb.html",
+                "num": 210
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至209集",
+        "updateLast": "更新至210集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -5396,10 +5400,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/a00424rlj1m.html",
                 "num": 235
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/z0042w61tb3.html",
+                "num": 236
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至235集",
+        "updateLast": "更新至236集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -8621,7 +8629,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至54集",
+        "updateLast": "更新至55集",
         "tvName": "神医九小姐",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200scmerwj/w0041bb7lad.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200scmerwj1636527499052/130",
@@ -8843,6 +8851,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200scmerwj/b0042f0t4wl.html",
                 "num": 54
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200scmerwj/o0042r13fhh.html",
+                "num": 55
             }
         ]
     },
