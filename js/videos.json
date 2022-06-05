@@ -994,10 +994,14 @@
             {
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/n0042zep6qb.html",
                 "num": 210
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/f0043ts4ckg.html",
+                "num": 211
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至210集",
+        "updateLast": "更新至211集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -2071,10 +2075,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/w0042t7d2pq.html",
                 "num": 236
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/s0042jx2flv.html",
+                "num": 237
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至236集",
+        "updateLast": "更新至237集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -5432,10 +5440,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/p00427q7xbe.html",
                 "num": 237
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/x0042r4lycj.html",
+                "num": 238
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至237集",
+        "updateLast": "更新至238集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -6813,7 +6825,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至86集",
+        "updateLast": "更新至87集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7163,6 +7175,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/c0042dinhx1.html",
                 "num": 86
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/y0042gp7ro8.html",
+                "num": 87
             }
         ]
     },
@@ -8697,7 +8713,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至56集",
+        "updateLast": "更新至57集",
         "tvName": "神医九小姐",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200scmerwj/w0041bb7lad.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200scmerwj1636527499052/130",
@@ -8927,6 +8943,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200scmerwj/c0042ja58d6.html",
                 "num": 56
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200scmerwj/f0042pcryfa.html",
+                "num": 57
             }
         ]
     },
