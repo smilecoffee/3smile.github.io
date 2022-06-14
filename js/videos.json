@@ -2091,10 +2091,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/u0042465h9e.html",
                 "num": 239
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/w0042inx50z.html",
+                "num": 240
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至239集",
+        "updateLast": "更新至240集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -3421,10 +3425,14 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/a0042k29ftt.html",
                 "num": 287
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0042ha2f9t.html",
+                "num": 288
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至287集",
+        "updateLast": "更新至288集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
@@ -8817,7 +8825,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至59集",
+        "updateLast": "全60集",
         "tvName": "神医九小姐",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200scmerwj/w0041bb7lad.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200scmerwj1636527499052/130",
@@ -9059,6 +9067,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200scmerwj/m0042wcrqyq.html",
                 "num": 59
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200scmerwj/o004225njxt.html",
+                "num": 60
             }
         ]
     },
