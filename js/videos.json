@@ -4398,10 +4398,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/k0042cqkvro.html",
                 "num": 216
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z0042qfmbmk.html",
+                "num": 217
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至216集",
+        "updateLast": "更新至217集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -5492,10 +5496,14 @@
             {
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/w0042gsj4o5.html",
                 "num": 240
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/a0042041vbx.html",
+                "num": 241
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至240集",
+        "updateLast": "更新至241集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -6901,7 +6909,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至89集",
+        "updateLast": "更新至90集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/x004095kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -7263,12 +7271,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/a0043epcm29.html",
                 "num": 89
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/k0043mn9c1n.html",
+                "num": 90
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至279集",
+        "updateLast": "更新至280集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -8390,6 +8402,10 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/g0043z3jxtb.html",
                 "num": 279
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/h0043yaf4ay.html",
+                "num": 280
             }
         ]
     },
@@ -9076,7 +9092,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至39集",
+        "updateLast": "更新至40集",
         "tvName": "吞噬星空",
         "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/t0035aw2v35.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
@@ -9238,6 +9254,10 @@
             {
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/y0043381p35.html",
                 "num": 39
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/g0043x6s5zy.html",
+                "num": 40
             }
         ]
     }
