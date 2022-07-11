@@ -6331,7 +6331,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至101集",
+        "updateLast": "更新至109集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6741,6 +6741,38 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h0043q62vc0.html",
                 "num": 101
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q00431at19a.html",
+                "num": 102
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/m0043yqykcy.html",
+                "num": 103
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/k0043624hlh.html",
+                "num": 104
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/z0043bu5y57.html",
+                "num": 105
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/s0043ozv270.html",
+                "num": 106
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/u0043idq4wk.html",
+                "num": 107
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/d0043y5z0fa.html",
+                "num": 108
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j0043o2ky8i.html",
+                "num": 109
             }
         ]
     },
