@@ -3509,11 +3509,15 @@
             {
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/o00437dvbw5.html",
                 "num": 296
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/z0043cqfru1.html",
+                "num": 297
             }
             
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至296集",
+        "updateLast": "更新至297集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
@@ -4511,6 +4515,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/m0042np3p4g.html",
                 "num": 224
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f0042cm4h0q.html",
+                "num": 225
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
@@ -6344,7 +6352,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至109集",
+        "updateLast": "更新至110集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6786,12 +6794,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j0043o2ky8i.html",
                 "num": 109
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/d00436lvzth.html",
+                "num": 110
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至66集",
+        "updateLast": "更新至67集",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -7061,6 +7073,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/s0043au8hrt.html",
                 "num": 66
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i00432s4n78.html",
+                "num": 67
             }
         ]
     },
