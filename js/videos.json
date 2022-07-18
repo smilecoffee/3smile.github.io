@@ -2147,10 +2147,14 @@
             {
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/g0043mevo6z.html",
                 "num": 248
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/w0043sxbyu4.html",
+                "num": 249
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至248集",
+        "updateLast": "更新至249集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -4523,10 +4527,14 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f0042cm4h0q.html",
                 "num": 225
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z0043ixezhm.html",
+                "num": 226
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至224集",
+        "updateLast": "更新至226集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -6356,7 +6364,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至110集",
+        "updateLast": "更新至111集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -6802,6 +6810,10 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/d00436lvzth.html",
                 "num": 110
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/h00434t7x6c.html",
+                "num": 111
             }
         ]
     },
