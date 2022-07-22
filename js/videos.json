@@ -2158,7 +2158,7 @@
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至250集",
+        "updateLast": "更新至250集\"},\"sub_items\":{\"star_list\":{\"item_datas\":[]}},\"complex_json\":\"\"}],\"fetched\":true}},\"episodeClips\":{\"fetched\":true,\"title\":\"花絮资讯",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
@@ -4551,7 +4551,7 @@
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至227集\"},\"sub_items\":{\"star_list\":{\"item_datas\":[]}},\"complex_json\":\"\"}],\"fetched\":true}},\"episodeClips\":{\"fetched\":true,\"title\":\"花絮资讯",
+        "updateLast": "更新至227集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -6948,7 +6948,7 @@
         "updateNotify": "",
         "updateLast": "更新至68集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0043hd9sc8.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g00436niutf.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -7222,14 +7222,9 @@
                 "num": 67
             },
             {
-                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/s0043au8hrt.html",
-                "num": 66,
-                "duration": 1266
-            },
-            {
-                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0043hd9sc8.html",
-                "num": 67,
-                "duration": 1305
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g00436niutf.html",
+                "num": 68,
+                "duration": 1297
             }
         ]
     },
@@ -9043,7 +9038,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集\"},\"sub_items\":{\"star_list\":{\"item_datas\":[]}},\"complex_json\":\"\"}],\"fetched\":true}},\"episodeClips\":{\"fetched\":true,\"title\":\"花絮资讯",
+        "updateLast": "更新至10集",
         "tvName": "西行纪第四季",
         "fromUrl": "https://v.qq.com/x/cover/mzc0020071vnhn9/t00432dzwug.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020071vnhn91654047393486/130",
@@ -9104,7 +9099,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "全16集",
+        "updateLast": "全16集\"},\"sub_items\":{\"star_list\":{\"item_datas\":[]},\"multi_language\":{\"item_datas\":[{\"item_id\":\"0gsf9fytppje54d",
         "tvName": "西行纪第1季",
         "fromUrl": "https://v.qq.com/x/cover/0gsf9fytppje54d/y002766q4ol.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/0gsf9fytppje54d1650972661190/130",
