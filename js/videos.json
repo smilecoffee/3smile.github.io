@@ -3562,7 +3562,7 @@
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0043epihkk.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/b0043lmjcfp.html"
     },
     {
         "sections": [
@@ -5726,15 +5726,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/k0043ilgk2q.html",
                 "num": 252,
                 "duration": 520
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/s00438yddu4.html",
+                "num": 253,
+                "duration": 520
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至252集",
+        "updateLast": "更新至253集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/k0043ilgk2q.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/s00438yddu4.html"
     },
     {
         "sections": [
@@ -8892,9 +8897,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至45集",
+        "updateLast": "更新至46集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/n00433i9ki9.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/m0043wyrd7h.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -9078,14 +9083,19 @@
             {
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/n00433i9ki9.html",
                 "num": 45
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/m0043wyrd7h.html",
+                "num": 46,
+                "duration": 1378
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集",
+        "updateLast": "更新至11集",
         "tvName": "西行纪第四季",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020071vnhn9/t00432dzwug.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020071vnhn9/q0043thpglm.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020071vnhn91654047393486/130",
         "headTime": 138,
         "tailTime": 1800,
@@ -9139,6 +9149,11 @@
                 "url": "https://v.qq.com/x/cover/mzc0020071vnhn9/t00432dzwug.html",
                 "num": 10,
                 "duration": 1257
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020071vnhn9/q0043thpglm.html",
+                "num": 11,
+                "duration": 1273
             }
         ]
     },
