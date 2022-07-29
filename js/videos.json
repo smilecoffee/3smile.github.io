@@ -9297,5 +9297,66 @@
                 "duration": 879
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至10集",
+        "tvName": "迷航昆仑墟",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200fivc1di/t0043w7bedw.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200fivc1di1658477264041/130",
+        "headTime": 90,
+        "tailTime": 2700,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/k0043ubas13.html",
+                "num": 1,
+                "duration": 2689
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/m00435trad6.html",
+                "num": 2,
+                "duration": 2681
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/x0043yc6nve.html",
+                "num": 3,
+                "duration": 2708
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/v004314jlcx.html",
+                "num": 4,
+                "duration": 2683
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/n00431kdlwa.html",
+                "num": 5,
+                "duration": 2670
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/a0043cbeqms.html",
+                "num": 6,
+                "duration": 2606
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/t0043txpdzm.html",
+                "num": 7,
+                "duration": 2749
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/r0043iwlgtx.html",
+                "num": 8,
+                "duration": 2718
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/u0043lt0vbc.html",
+                "num": 9,
+                "duration": 2529
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200fivc1di/t0043w7bedw.html",
+                "num": 10,
+                "duration": 2711
+            }
+        ]
     }
 ]
