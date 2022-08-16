@@ -2210,15 +2210,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/u0043yrbg0s.html",
                 "num": 257,
                 "duration": 461
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/c0043t2tcxx.html",
+                "num": 258,
+                "duration": 458
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至257集",
+        "updateLast": "更新至258集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 104,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/u0043yrbg0s.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/c0043t2tcxx.html"
     },
     {
         "sections": [
@@ -3619,15 +3624,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/r0043tgjzv0.html",
                 "num": 305,
                 "duration": 653
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/i00438boxjy.html",
+                "num": 306,
+                "duration": 666
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至305集",
+        "updateLast": "更新至306集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/r0043tgjzv0.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/i00438boxjy.html"
     },
     {
         "sections": [
