@@ -4678,15 +4678,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/l00436ypy30.html",
                 "num": 234,
                 "duration": 750
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x0043zywj2x.html",
+                "num": 235,
+                "duration": 760
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至234集",
+        "updateLast": "更新至235集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/l00436ypy30.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x0043zywj2x.html"
     },
     {
         "sections": [
@@ -7485,9 +7490,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至107集",
+        "updateLast": "更新至108集",
         "tvName": "我气哭了百万修炼者",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/o0044pdnudo.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/n00441xuowd.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
         "headTime": 140,
         "tailTime": 565,
@@ -7936,14 +7941,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/o0044pdnudo.html",
                 "num": 107,
                 "duration": 676
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/n00441xuowd.html",
+                "num": 108,
+                "duration": 677
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至297集",
+        "updateLast": "更新至298集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/j0043snmt4n.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l0044csgsfv.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9152,6 +9162,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/j0043snmt4n.html",
                 "num": 297,
                 "duration": 462
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l0044csgsfv.html",
+                "num": 298,
+                "duration": 460
             }
         ]
     },
@@ -9368,12 +9383,12 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "会员每周二三四20点更新2集，非会员每周二到周六20点更新1集",
+        "updateLast": "会员每周二三四20点更新2集，8月18日19点大结局点映礼。",
         "tvName": "月升沧海",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200vmd652y/f00449vf319.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200vmd652y/k00442nb2ze.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200vmd652y1658930222301/350",
-        "headTime": 117,
-        "tailTime": 3300,
+        "headTime": 90,
+        "tailTime": 2700,
         "sections": [
             {
                 "url": "https://v.qq.com/x/cover/mzc00200vmd652y/w00439okmxo.html",
@@ -9594,6 +9609,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200vmd652y/f00449vf319.html",
                 "num": 44,
                 "duration": 2777
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200vmd652y/r0044v5wkit.html",
+                "num": 45,
+                "duration": 2738
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200vmd652y/k00442nb2ze.html",
+                "num": 46,
+                "duration": 2982
             }
         ]
     }
