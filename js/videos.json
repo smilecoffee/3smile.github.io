@@ -2225,15 +2225,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/p0043z801hp.html",
                 "num": 259,
                 "duration": 462
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044mh7rxy.html",
+                "num": 260,
+                "duration": 453
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至259集",
+        "updateLast": "更新至260集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/p0043z801hp.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044mh7rxy.html"
     },
     {
         "sections": [
@@ -3644,15 +3649,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/w00438s1ibx.html",
                 "num": 307,
                 "duration": 667
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/g0044zdqyeh.html",
+                "num": 308,
+                "duration": 634
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至307集",
+        "updateLast": "更新至308集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/w00438s1ibx.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/g0044zdqyeh.html"
     },
     {
         "sections": [
@@ -9694,9 +9704,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至54集",
+        "updateLast": "更新至55集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/n004371qbac.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/h0043w8fzcc.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -9969,6 +9979,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/n004371qbac.html",
                 "num": 54,
+                "duration": 585
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/h0043w8fzcc.html",
+                "num": 55,
                 "duration": 585
             }
         ]
