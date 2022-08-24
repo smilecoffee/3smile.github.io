@@ -5906,15 +5906,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/v0044pdivwz.html",
                 "num": 260,
                 "duration": 520
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/i0044vb147q.html",
+                "num": 261,
+                "duration": 519
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至260集",
+        "updateLast": "更新至261集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/v0044pdivwz.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/i0044vb147q.html"
     },
     {
         "sections": [
@@ -9242,9 +9247,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至49集",
+        "updateLast": "更新至50集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/w0044zsul49.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/r0044z77vu7.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -9448,14 +9453,19 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/w0044zsul49.html",
                 "num": 49,
                 "duration": 1315
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/r0044z77vu7.html",
+                "num": 50,
+                "duration": 1299
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "会员每周二三四20点更新2集，8.23前可参与大结局点映礼",
+        "updateLast": "会员每周二三四20点更新2集，非会员每周二到周六20点更新1集",
         "tvName": "月升沧海",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200vmd652y/r0044032zd5.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200vmd652y/i0044djvg3i.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200vmd652y1658930222301/350",
         "headTime": 116,
         "tailTime": 3100,
