@@ -4713,15 +4713,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/k0043tvvegk.html",
                 "num": 236,
                 "duration": 760
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f00441p49wi.html",
+                "num": 237,
+                "duration": 735
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至236集",
+        "updateLast": "更新至237集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/k0043tvvegk.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f00441p49wi.html"
     },
     {
         "sections": [
@@ -7555,9 +7560,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至109集",
+        "updateLast": "更新至110集",
         "tvName": "我气哭了百万修炼者",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/b0044dan2x5.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/t00447yac6h.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
         "headTime": 140,
         "tailTime": 565,
@@ -8016,14 +8021,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/b0044dan2x5.html",
                 "num": 109,
                 "duration": 676
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sm0qv1l/t00447yac6h.html",
+                "num": 110,
+                "duration": 668
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至299集",
+        "updateLast": "更新至300集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/n0044s51s1u.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044dtn9jo.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9241,6 +9251,11 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/n0044s51s1u.html",
                 "num": 299,
+                "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044dtn9jo.html",
+                "num": 300,
                 "duration": 460
             }
         ]
