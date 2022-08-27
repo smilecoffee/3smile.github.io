@@ -9508,11 +9508,11 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至05集",
+        "updateLast": "更新至06集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/d0044sh4eq8.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/u0044j4i4ds.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
-        "headTime": 116,
+        "headTime": 90,
         "tailTime": 3100,
         "sections": [
             {
@@ -9539,6 +9539,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/d0044sh4eq8.html",
                 "num": 5,
                 "duration": 2688
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/c0044ufams7.html",
+                "num": 6,
+                "duration": 2677
             }
         ]
     },
