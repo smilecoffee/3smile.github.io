@@ -2235,15 +2235,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044mh7rxy.html",
                 "num": 260,
                 "duration": 453
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/c0044h4s8j8.html",
+                "num": 261,
+                "duration": 455
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至260集",
+        "updateLast": "更新至261集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044mh7rxy.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/c0044h4s8j8.html"
     },
     {
         "sections": [
@@ -7590,9 +7595,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至110集",
+        "updateLast": "更新至111集",
         "tvName": "我气哭了百万修炼者",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/t00447yac6h.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/f0044ti8esd.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
         "headTime": 140,
         "tailTime": 565,
