@@ -4748,15 +4748,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f00430sq45m.html",
                 "num": 238,
                 "duration": 760
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/q0043crd7pu.html",
+                "num": 239,
+                "duration": 767
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至238集",
+        "updateLast": "更新至239集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/f00430sq45m.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/q0043crd7pu.html"
     },
     {
         "sections": [
@@ -7625,7 +7630,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至111集",
+        "updateLast": "更新至112集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/f0044ti8esd.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -8096,9 +8101,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至301集",
+        "updateLast": "更新至302集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/b0044sc4yc8.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044vtwxgh.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9327,6 +9332,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/b0044sc4yc8.html",
                 "num": 301,
                 "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044vtwxgh.html",
+                "num": 302,
+                "duration": 461
             }
         ]
     },
