@@ -1052,15 +1052,20 @@
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/k0044m81b61.html",
                 "num": 223,
                 "duration": 1295
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/t00442uqmro.html",
+                "num": 224,
+                "duration": 1303
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至223集",
+        "updateLast": "更新至224集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
         "tailTime": 1105,
-        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/k0044m81b61.html"
+        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/t00442uqmro.html"
     },
     {
         "sections": [
@@ -5966,15 +5971,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/b00443as5gn.html",
                 "num": 263,
                 "duration": 519
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/s0044z9eaj9.html",
+                "num": 264,
+                "duration": 519
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至263集",
+        "updateLast": "更新至264集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/b00443as5gn.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/s0044z9eaj9.html"
     },
     {
         "sections": [
@@ -9583,9 +9593,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至14集",
+        "updateLast": "更新至15集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/i00443coj1y.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/r00443rzhjk.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9659,14 +9669,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/i00443coj1y.html",
                 "num": 14,
                 "duration": 2477
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/r00443rzhjk.html",
+                "num": 15,
+                "duration": 2399
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至57集",
+        "updateLast": "更新至58集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z0044jbpl09.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/m0044zd1x73.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -9955,6 +9970,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z0044jbpl09.html",
                 "num": 57,
                 "duration": 585
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/m0044zd1x73.html",
+                "num": 58,
+                "duration": 586
             }
         ]
     },
