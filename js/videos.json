@@ -10023,5 +10023,66 @@
                 "duration": 1209
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至10集",
+        "tvName": "飞狐外传",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/b0044uwnb3v.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200016zk9d1655791192078/130",
+        "headTime": 100,
+        "tailTime": 1500,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/k0044xauzt4.html",
+                "num": 1,
+                "duration": 2605
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/q00445dewwx.html",
+                "num": 2,
+                "duration": 2643
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/f0044w49vs9.html",
+                "num": 3,
+                "duration": 2363
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/a0044odmlqk.html",
+                "num": 4,
+                "duration": 2485
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/h0044hs3z2n.html",
+                "num": 5,
+                "duration": 2360
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/h00449ennqr.html",
+                "num": 6,
+                "duration": 2368
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/j00442li94i.html",
+                "num": 7,
+                "duration": 2423
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/d0044geigum.html",
+                "num": 8,
+                "duration": 2514
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/d00445cq8f2.html",
+                "num": 9,
+                "duration": 2427
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/b0044uwnb3v.html",
+                "num": 10,
+                "duration": 2513
+            }
+        ]
     }
 ]
