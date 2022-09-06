@@ -2255,15 +2255,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/k0044vkzr7i.html",
                 "num": 263,
                 "duration": 459
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/k00445efpza.html",
+                "num": 264,
+                "duration": 456
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至263集",
+        "updateLast": "更新至264集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/k0044vkzr7i.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/k00445efpza.html"
     },
     {
         "sections": [
@@ -3694,15 +3699,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/h0043ldyt6t.html",
                 "num": 311,
                 "duration": 661
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0043hrvu19.html",
+                "num": 312,
+                "duration": 660
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至311集",
+        "updateLast": "更新至312集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/h0043ldyt6t.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0043hrvu19.html"
     },
     {
         "sections": [
@@ -4781,7 +4791,7 @@
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x0043zuh702.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/e0044964ry0.html"
     },
     {
         "sections": [
@@ -9618,9 +9628,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至18集",
+        "updateLast": "更新至19集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/i00448m2sz8.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/m00442slhfk.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9714,14 +9724,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/i00448m2sz8.html",
                 "num": 18,
                 "duration": 2472
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/m00442slhfk.html",
+                "num": 19,
+                "duration": 2410
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至58集",
+        "updateLast": "更新至59集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/m0044zd1x73.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/t0044mdj2ve.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -10015,14 +10030,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/m0044zd1x73.html",
                 "num": 58,
                 "duration": 586
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/t0044mdj2ve.html",
+                "num": 59,
+                "duration": 585
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至07集",
+        "updateLast": "更新至08集",
         "tvName": "诛仙",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/y0044wen0ui.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/y0044rjqfh2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
         "headTime": 100,
         "tailTime": 1500,
@@ -10061,6 +10081,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/y0044wen0ui.html",
                 "num": 7,
                 "duration": 1209
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/y0044rjqfh2.html",
+                "num": 8,
+                "duration": 1172
             }
         ]
     },
