@@ -4783,15 +4783,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x0043zuh702.html",
                 "num": 240,
                 "duration": 767
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0043aibz49.html",
+                "num": 241,
+                "duration": 767
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至240集",
+        "updateLast": "更新至241集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/e0044964ry0.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0043aibz49.html"
     },
     {
         "sections": [
@@ -7695,7 +7700,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至113集",
+        "updateLast": "更新至114集",
         "tvName": "我气哭了百万修炼者",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sm0qv1l/f0044ti8esd.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sm0qv1l1629276861351/130",
@@ -8166,9 +8171,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至303集",
+        "updateLast": "更新至304集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/w0044bnz9ev.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l00445hhkg9.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9407,6 +9412,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/w0044bnz9ev.html",
                 "num": 303,
                 "duration": 461
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l00445hhkg9.html",
+                "num": 304,
+                "duration": 461
             }
         ]
     },
@@ -9638,9 +9648,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至21集",
+        "updateLast": "更新至23集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044htrj8k.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/k00442a3mko.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9749,6 +9759,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044htrj8k.html",
                 "num": 21,
                 "duration": 2455
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/v0044czh9ha.html",
+                "num": 22,
+                "duration": 2395
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/k00442a3mko.html",
+                "num": 23,
+                "duration": 2448
             }
         ]
     },
@@ -10111,9 +10131,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至12集",
+        "updateLast": "更新至14集",
         "tvName": "飞狐外传",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044ttuw5g.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044l8td8n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200016zk9d1655791192078/130",
         "headTime": 90,
         "tailTime": 2800,
@@ -10177,6 +10197,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044ttuw5g.html",
                 "num": 12,
                 "duration": 2575
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/t0044jfbgtg.html",
+                "num": 13,
+                "duration": 2575
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044l8td8n.html",
+                "num": 14,
+                "duration": 2397
             }
         ]
     }
