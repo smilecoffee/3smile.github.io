@@ -3704,15 +3704,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0043hrvu19.html",
                 "num": 312,
                 "duration": 660
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m0043c9xg69.html",
+                "num": 313,
+                "duration": 659
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至312集",
+        "updateLast": "更新至313集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/u0043hrvu19.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/m0043c9xg69.html"
     },
     {
         "sections": [
@@ -6849,21 +6854,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/v0044s4vw79.html",
                 "num": 202,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/t0044hbun0q.html",
+                "num": 203,
+                "duration": 464
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至202集",
+        "updateLast": "更新至203集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/v0044s4vw79.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/t0044hbun0q.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至125集",
+        "updateLast": "更新至126集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/a0044rhzbeu.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/e0044ueht2i.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7381,14 +7391,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a0044rhzbeu.html",
                 "num": 125,
                 "duration": 710
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/e0044ueht2i.html",
+                "num": 126,
+                "duration": 724
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至74集",
+        "updateLast": "更新至75集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g0044xbdym1.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/m00445kctjt.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -7695,6 +7710,11 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/g0044xbdym1.html",
                 "num": 74,
                 "duration": 1251
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/m00445kctjt.html",
+                "num": 75,
+                "duration": 1292
             }
         ]
     },
@@ -9648,9 +9668,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至23集",
+        "updateLast": "更新至25集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/k00442a3mko.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/a0044tq1d1s.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9769,6 +9789,21 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/k00442a3mko.html",
                 "num": 23,
                 "duration": 2448
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/y0044h4hd2i.html",
+                "num": 24,
+                "duration": 2343
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/g0044ielfiw.html",
+                "num": 25,
+                "duration": 2490
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/a0044tq1d1s.html",
+                "num": 27,
+                "duration": 238
             }
         ]
     },
@@ -10131,9 +10166,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至14集",
+        "updateLast": "更新至16集",
         "tvName": "飞狐外传",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044l8td8n.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/e0044lxf13t.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200016zk9d1655791192078/130",
         "headTime": 90,
         "tailTime": 2800,
@@ -10207,6 +10242,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200016zk9d/s0044l8td8n.html",
                 "num": 14,
                 "duration": 2397
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/b0044ieqau4.html",
+                "num": 15,
+                "duration": 2524
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/e0044lxf13t.html",
+                "num": 16,
+                "duration": 2488
             }
         ]
     }
