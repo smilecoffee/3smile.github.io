@@ -4803,15 +4803,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0043aibz49.html",
                 "num": 241,
                 "duration": 767
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/q00437s9lj8.html",
+                "num": 242,
+                "duration": 767
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至241集",
+        "updateLast": "更新至242集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0043aibz49.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/q00437s9lj8.html"
     },
     {
         "sections": [
@@ -6874,21 +6879,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/t0044hbun0q.html",
                 "num": 203,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/j0044k8a9mo.html",
+                "num": 204,
+                "duration": 464
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至203集",
+        "updateLast": "更新至204集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/t0044hbun0q.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/j0044k8a9mo.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至126集",
+        "updateLast": "更新至127集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/e0044ueht2i.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/c0044spblso.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7411,6 +7421,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/e0044ueht2i.html",
                 "num": 126,
                 "duration": 724
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/c0044spblso.html",
+                "num": 127,
+                "duration": 721
             }
         ]
     },
@@ -8206,9 +8221,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至304集",
+        "updateLast": "更新至305集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l00445hhkg9.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/q004493lfg3.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9452,6 +9467,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/l00445hhkg9.html",
                 "num": 304,
                 "duration": 461
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/q004493lfg3.html",
+                "num": 305,
+                "duration": 460
             }
         ]
     },
@@ -10423,6 +10443,82 @@
                 "url": "https://v.qq.com/x/cover/mzc00200p29gosv/i00408fijsj.html",
                 "num": 24,
                 "duration": 1483
+            }
+        ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "会员看全集",
+        "tvName": "斗破苍穹三年之约",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020036ro0ux/v00415hs5nn.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020036ro0ux1634437673075/260",
+        "headTime": 190,
+        "tailTime": 1500,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/e0040wour6t.html",
+                "num": 1,
+                "duration": 1395
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/v0040ixo1zf.html",
+                "num": 2,
+                "duration": 1317
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/e0041fcu8d4.html",
+                "num": 3,
+                "duration": 1395
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/l0041kdxm0b.html",
+                "num": 4,
+                "duration": 1401
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/j00410yy9z3.html",
+                "num": 5,
+                "duration": 1409
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/k00416lo0t8.html",
+                "num": 6,
+                "duration": 1409
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/c0041q0xf0a.html",
+                "num": 7,
+                "duration": 1352
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/r0041fbwwbb.html",
+                "num": 8,
+                "duration": 1372
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/w0041l2p9ir.html",
+                "num": 9,
+                "duration": 1270
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/f0041qllzll.html",
+                "num": 10,
+                "duration": 1383
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/j00410m70gs.html",
+                "num": 11,
+                "duration": 1417
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/c004159c18o.html",
+                "num": 12,
+                "duration": 1422
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020036ro0ux/v00415hs5nn.html",
+                "num": 13,
+                "duration": 1402
             }
         ]
     }
