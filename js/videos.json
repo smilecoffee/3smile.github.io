@@ -6041,15 +6041,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/y00442s1vmi.html",
                 "num": 266,
                 "duration": 521
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/l0044ghf1s7.html",
+                "num": 267,
+                "duration": 519
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至266集",
+        "updateLast": "更新至267集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/y00442s1vmi.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/l0044ghf1s7.html"
     },
     {
         "sections": [
@@ -9487,9 +9492,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至52集",
+        "updateLast": "更新至53集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/s0044l4sowp.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/z0044qgwema.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -9708,14 +9713,19 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/s0044l4sowp.html",
                 "num": 52,
                 "duration": 1361
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/z0044qgwema.html",
+                "num": 53,
+                "duration": 1310
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至30集",
+        "updateLast": "更新至31集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/q00441iuig1.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/l0044fxyul4.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9869,6 +9879,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/q00441iuig1.html",
                 "num": 30,
                 "duration": 2507
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/l0044fxyul4.html",
+                "num": 31,
+                "duration": 2400
             }
         ]
     },
@@ -10605,6 +10620,77 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/p00444qbf0e.html",
                 "num": 9,
                 "duration": 1350
+            }
+        ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "会员看全集",
+        "tvName": "斗破苍穹第3季",
+        "fromUrl": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/z0032f86g3o.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
+        "headTime": 190,
+        "tailTime": 1500,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/e00316w2fzo.html",
+                "num": 1,
+                "duration": 1340
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/z0031s1ng8f.html",
+                "num": 2,
+                "duration": 1382
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/l0031bhuvao.html",
+                "num": 3,
+                "duration": 1386
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/n00315b1tbm.html",
+                "num": 4,
+                "duration": 1304
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/n0031qmw2ic.html",
+                "num": 5,
+                "duration": 1297
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/i00313bidgg.html",
+                "num": 6,
+                "duration": 1406
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/b00329c78dj.html",
+                "num": 7,
+                "duration": 1470
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/t003222lu8b.html",
+                "num": 8,
+                "duration": 1370
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/k0032m2d7bn.html",
+                "num": 9,
+                "duration": 1366
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/k00326s3rzw.html",
+                "num": 10,
+                "duration": 1392
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/z00322wgog3.html",
+                "num": 11,
+                "duration": 1376
+            },
+            {
+                "url": "https://v.qq.com/x/cover/o0ytzgvq6o08e9o/z0032f86g3o.html",
+                "num": 12,
+                "duration": 1477
             }
         ]
     }
