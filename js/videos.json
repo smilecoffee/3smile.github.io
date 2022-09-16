@@ -10014,5 +10014,76 @@
                 "duration": 1350
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "会员看全集",
+        "tvName": "斗破苍穹第2季",
+        "fromUrl": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/n0026zpcp0f.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
+        "headTime": 190,
+        "tailTime": 1500,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/y0026ac611x.html",
+                "num": 1,
+                "duration": 1208
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/n002614dpg2.html",
+                "num": 2,
+                "duration": 1165
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/v0026i0gy31.html",
+                "num": 3,
+                "duration": 1170
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/x0026se9la9.html",
+                "num": 4,
+                "duration": 1144
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/m002666yp8u.html",
+                "num": 5,
+                "duration": 1212
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/p00268omwqq.html",
+                "num": 6,
+                "duration": 1189
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/w0026mted8t.html",
+                "num": 7,
+                "duration": 1175
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/s0026gwbm9b.html",
+                "num": 8,
+                "duration": 1173
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/g0026bo2zqe.html",
+                "num": 9,
+                "duration": 1149
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/y0026r83rdb.html",
+                "num": 10,
+                "duration": 1173
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/b0026ulj109.html",
+                "num": 11,
+                "duration": 1165
+            },
+            {
+                "url": "https://v.qq.com/x/cover/8j37ljw0f8hy6ha/n0026zpcp0f.html",
+                "num": 12,
+                "duration": 1259
+            }
+        ]
     }
 ]
