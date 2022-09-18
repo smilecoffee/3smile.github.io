@@ -2280,15 +2280,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/i004406ht93.html",
                 "num": 266,
                 "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/i0044pevw7u.html",
+                "num": 267,
+                "duration": 459
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至266集",
+        "updateLast": "更新至267集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/i004406ht93.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/i0044pevw7u.html"
     },
     {
         "sections": [
@@ -9292,9 +9297,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至36集",
+        "updateLast": "更新至39集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/o00444bjneq.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044ynpep6.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9478,6 +9483,21 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/o00444bjneq.html",
                 "num": 36,
                 "duration": 2480
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/v0044loyt2x.html",
+                "num": 37,
+                "duration": 2389
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/t0044bjo1hv.html",
+                "num": 38,
+                "duration": 2393
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044ynpep6.html",
+                "num": 39,
+                "duration": 2408
             }
         ]
     },
@@ -9991,9 +10011,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至09集",
+        "updateLast": "更新至10集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/p00444qbf0e.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/z0044g9u2eu.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10042,6 +10062,11 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/p00444qbf0e.html",
                 "num": 9,
                 "duration": 1350
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/z0044g9u2eu.html",
+                "num": 10,
+                "duration": 1330
             }
         ]
     },
