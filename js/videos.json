@@ -2285,15 +2285,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/i0044pevw7u.html",
                 "num": 267,
                 "duration": 459
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/h00440syra9.html",
+                "num": 268,
+                "duration": 459
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至267集",
+        "updateLast": "更新至268集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/i0044pevw7u.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/h00440syra9.html"
     },
     {
         "sections": [
@@ -3744,15 +3749,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0044dy5fvp.html",
                 "num": 315,
                 "duration": 659
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044dh3sw4.html",
+                "num": 316,
+                "duration": 654
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至315集",
+        "updateLast": "更新至316集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/s0044dy5fvp.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044dh3sw4.html"
     },
     {
         "sections": [
@@ -9317,9 +9327,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至39集",
+        "updateLast": "更新至40集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044ynpep6.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/b0044pleczc.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9518,14 +9528,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/i0044ynpep6.html",
                 "num": 39,
                 "duration": 2408
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/b0044pleczc.html",
+                "num": 40,
+                "duration": 2401
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "会员看全集",
+        "updateLast": "更新至63集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s0044f38sc5.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/g0044cyi1wk.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -9839,14 +9854,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s0044f38sc5.html",
                 "num": 62,
                 "duration": 586
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/g0044cyi1wk.html",
+                "num": 63,
+                "duration": 585
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至09集",
+        "updateLast": "更新至10集",
         "tvName": "诛仙",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/h0044rub7xm.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/h0044a3103o.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
         "headTime": 100,
         "tailTime": 1500,
@@ -9895,6 +9915,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/h0044rub7xm.html",
                 "num": 9,
                 "duration": 1222
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/h0044a3103o.html",
+                "num": 10,
+                "duration": 1190
             }
         ]
     },
