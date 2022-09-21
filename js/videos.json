@@ -6086,15 +6086,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/z0044tdf40j.html",
                 "num": 268,
                 "duration": 519
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/t0044nq5vvj.html",
+                "num": 269,
+                "duration": 519
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至268集",
+        "updateLast": "更新至269集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/z0044tdf40j.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/t0044nq5vvj.html"
     },
     {
         "sections": [
@@ -9096,9 +9101,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至53集",
+        "updateLast": "更新至54集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/z0044qgwema.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/q0044m9lziq.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -9322,14 +9327,19 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/z0044qgwema.html",
                 "num": 53,
                 "duration": 1310
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/q0044m9lziq.html",
+                "num": 54,
+                "duration": 1287
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至40集",
+        "updateLast": "更新至42集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/b0044pleczc.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/f00446qv1ry.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9533,6 +9543,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/b0044pleczc.html",
                 "num": 40,
                 "duration": 2401
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/d0044lxvdib.html",
+                "num": 41,
+                "duration": 2385
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200sr8rguz/f00446qv1ry.html",
+                "num": 42,
+                "duration": 2387
             }
         ]
     },
