@@ -3754,15 +3754,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044dh3sw4.html",
                 "num": 316,
                 "duration": 654
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/c0044y0oxfj.html",
+                "num": 317,
+                "duration": 638
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至316集",
+        "updateLast": "更新至317集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044dh3sw4.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/c0044y0oxfj.html"
     },
     {
         "sections": [
@@ -6959,21 +6964,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/d00449fblqf.html",
                 "num": 206,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/f0044lev1gl.html",
+                "num": 207,
+                "duration": 464
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至206集",
+        "updateLast": "更新至207集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/d00449fblqf.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/f0044lev1gl.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至129集",
+        "updateLast": "更新至130集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/d0044792ahj.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/q0044029rqw.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7511,14 +7521,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/d0044792ahj.html",
                 "num": 129,
                 "duration": 713
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q0044029rqw.html",
+                "num": 130,
+                "duration": 708
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至76集",
+        "updateLast": "更新至77集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/y0044nhaflc.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/f0044nvtoq4.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -7835,6 +7850,11 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/y0044nhaflc.html",
                 "num": 76,
                 "duration": 1262
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/f0044nvtoq4.html",
+                "num": 77,
+                "duration": 1247
             }
         ]
     },
@@ -9347,9 +9367,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至44集",
+        "updateLast": "更新至46集",
         "tvName": "简言的夏冬",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/w0044pl1v9t.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/f00445q0ebu.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
         "headTime": 90,
         "tailTime": 3100,
@@ -9965,9 +9985,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至26集",
+        "updateLast": "更新至28集",
         "tvName": "飞狐外传",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/u0044nosjnq.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/y0044ryyu8l.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200016zk9d1655791192078/130",
         "headTime": 90,
         "tailTime": 2800,
@@ -10101,6 +10121,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200016zk9d/u0044nosjnq.html",
                 "num": 26,
                 "duration": 2356
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/b004488kgg0.html",
+                "num": 27,
+                "duration": 2456
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/y0044ryyu8l.html",
+                "num": 28,
+                "duration": 2531
             }
         ]
     },
