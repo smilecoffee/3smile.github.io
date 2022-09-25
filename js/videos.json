@@ -2295,15 +2295,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/h00440syra9.html",
                 "num": 268,
                 "duration": 459
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/u0044v1ycx9.html",
+                "num": 269,
+                "duration": 457
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至268集",
+        "updateLast": "更新至269集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/h00440syra9.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/u0044v1ycx9.html"
     },
     {
         "sections": [
@@ -9377,7 +9382,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至47集",
+        "updateLast": "更新至48集",
         "tvName": "简言的夏冬",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200sr8rguz/f00445q0ebu.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200sr8rguz1661258021195/350",
@@ -10161,9 +10166,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集",
+        "updateLast": "更新至11集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/z0044g9u2eu.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/h0044an3ivq.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10217,6 +10222,11 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/z0044g9u2eu.html",
                 "num": 10,
                 "duration": 1330
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/h0044an3ivq.html",
+                "num": 11,
+                "duration": 1349
             }
         ]
     }
