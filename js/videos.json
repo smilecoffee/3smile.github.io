@@ -2323,7 +2323,7 @@
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "会员看全集",
+        "updateLast": "更新至272集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
@@ -4923,15 +4923,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z00448qmg6j.html",
                 "num": 248,
                 "duration": 757
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/d0044yusa7y.html",
+                "num": 249,
+                "duration": 757
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至248集",
+        "updateLast": "更新至249集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/z00448qmg6j.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/d0044yusa7y.html"
     },
     {
         "sections": [
@@ -7975,9 +7980,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至311集",
+        "updateLast": "更新至312集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/i004433p6tw.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/c0044bvsj4n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9256,6 +9261,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/i004433p6tw.html",
                 "num": 311,
                 "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/c0044bvsj4n.html",
+                "num": 312,
+                "duration": 460
             }
         ]
     },
@@ -9924,9 +9934,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至36集",
+        "updateLast": "更新至38集",
         "tvName": "飞狐外传",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/b00449cqlgc.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200016zk9d/q0044woqh7b.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200016zk9d1655791192078/130",
         "headTime": 90,
         "tailTime": 2800,
@@ -10110,6 +10120,16 @@
                 "url": "https://v.qq.com/x/cover/mzc00200016zk9d/b00449cqlgc.html",
                 "num": 36,
                 "duration": 2487
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/j0044pufndz.html",
+                "num": 37,
+                "duration": 2441
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200016zk9d/q0044woqh7b.html",
+                "num": 38,
+                "duration": 2434
             }
         ]
     },
