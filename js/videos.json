@@ -9969,9 +9969,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至12集",
+        "updateLast": "更新至13集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/v0044o4z52l.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/f0044r3j0wk.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10035,14 +10035,19 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/v0044o4z52l.html",
                 "num": 12,
                 "duration": 1315
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/f0044r3j0wk.html",
+                "num": 13,
+                "duration": 1351
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至207集",
+        "updateLast": "更新至208集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/o0044b47t37.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/y00444mkr86.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -11081,6 +11086,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/o0044b47t37.html",
                 "num": 207,
                 "duration": 671
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y00444mkr86.html",
+                "num": 208,
+                "duration": 665
             }
         ]
     },
@@ -11118,6 +11128,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/o0044b47t37.html",
                 "num": 207,
                 "duration": 671
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y00444mkr86.html",
+                "num": 208,
+                "duration": 665
             }
         ]
     }
