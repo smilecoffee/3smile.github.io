@@ -3819,15 +3819,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m00449xfnmj.html",
                 "num": 322,
                 "duration": 651
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0044ukcqlm.html",
+                "num": 323,
+                "duration": 650
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至322集",
+        "updateLast": "更新至323集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/m00449xfnmj.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0044ukcqlm.html"
     },
     {
         "sections": [
@@ -7114,21 +7119,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/y0044rcgxnk.html",
                 "num": 212,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/b0044eqabyw.html",
+                "num": 213,
+                "duration": 464
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至212集",
+        "updateLast": "更新至213集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/y0044rcgxnk.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/b0044eqabyw.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至135集",
+        "updateLast": "更新至136集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/g00445ixalg.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/a004400nm6q.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7696,14 +7706,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/g00445ixalg.html",
                 "num": 135,
                 "duration": 710
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/a004400nm6q.html",
+                "num": 136,
+                "duration": 714
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至79集",
+        "updateLast": "更新至80集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/n0044imnvgr.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c0044giyvl4.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -8035,6 +8050,11 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/n0044imnvgr.html",
                 "num": 79,
                 "duration": 1313
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c0044giyvl4.html",
+                "num": 80,
+                "duration": 1272
             }
         ]
     },
