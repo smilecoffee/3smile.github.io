@@ -1082,15 +1082,20 @@
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/t004433s9t9.html",
                 "num": 229,
                 "duration": 1267
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/r0044k5cbzb.html",
+                "num": 230,
+                "duration": 1244
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至229集",
+        "updateLast": "更新至230集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
         "tailTime": 1105,
-        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/t004433s9t9.html"
+        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/r0044k5cbzb.html"
     },
     {
         "sections": [
@@ -2328,7 +2333,7 @@
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "会员看全集",
+        "updateLast": "更新至272集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
@@ -6226,15 +6231,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/d0044h0pnzl.html",
                 "num": 275,
                 "duration": 520
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/p0044508aqp.html",
+                "num": 276,
+                "duration": 519
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至275集",
+        "updateLast": "更新至276集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/d0044h0pnzl.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/p0044508aqp.html"
     },
     {
         "sections": [
@@ -9612,9 +9622,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至69集",
+        "updateLast": "更新至70集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/h0044a4x5wv.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s00449164zs.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -9962,6 +9972,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/h0044a4x5wv.html",
                 "num": 69,
+                "duration": 586
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s00449164zs.html",
+                "num": 70,
                 "duration": 586
             }
         ]
