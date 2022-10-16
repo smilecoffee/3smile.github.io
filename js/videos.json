@@ -2330,15 +2330,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044w7ylaa.html",
                 "num": 272,
                 "duration": 670
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/n0044wv9rqc.html",
+                "num": 273,
+                "duration": 464
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至272集",
+        "updateLast": "更新至273集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/f0044w7ylaa.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/n0044wv9rqc.html"
     },
     {
         "sections": [
@@ -10059,9 +10064,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至13集",
+        "updateLast": "更新至14集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/f0044r3j0wk.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/i00440o39cc.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10130,14 +10135,19 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/f0044r3j0wk.html",
                 "num": 13,
                 "duration": 1351
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/i00440o39cc.html",
+                "num": 14,
+                "duration": 1212
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至209集",
+        "updateLast": "更新至210集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/p0044nxhgxr.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/y0044pvna0g.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -11186,6 +11196,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/p0044nxhgxr.html",
                 "num": 209,
                 "duration": 668
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y0044pvna0g.html",
+                "num": 210,
+                "duration": 668
             }
         ]
     },
@@ -11232,6 +11247,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/p0044nxhgxr.html",
                 "num": 209,
+                "duration": 668
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y0044pvna0g.html",
+                "num": 210,
                 "duration": 668
             }
         ]
