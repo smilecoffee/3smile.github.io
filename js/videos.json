@@ -2335,15 +2335,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/n0044wv9rqc.html",
                 "num": 273,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/h0044ezjbzh.html",
+                "num": 274,
+                "duration": 490
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至273集",
+        "updateLast": "更新至274集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/n0044wv9rqc.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/h0044ezjbzh.html"
     },
     {
         "sections": [
@@ -3834,15 +3839,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0044ukcqlm.html",
                 "num": 323,
                 "duration": 650
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/j0044puhfhx.html",
+                "num": 324,
+                "duration": 651
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至323集",
+        "updateLast": "更新至324集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0044ukcqlm.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/j0044puhfhx.html"
     },
     {
         "sections": [
@@ -9647,9 +9657,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至70集",
+        "updateLast": "更新至71集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s00449164zs.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/p00440vuj4p.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -10003,14 +10013,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/s00449164zs.html",
                 "num": 70,
                 "duration": 586
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/p00440vuj4p.html",
+                "num": 71,
+                "duration": 585
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至13集",
+        "updateLast": "更新至14集",
         "tvName": "诛仙",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044ripbch.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044r6kicz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
         "headTime": 100,
         "tailTime": 1500,
@@ -10079,6 +10094,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044ripbch.html",
                 "num": 13,
                 "duration": 1247
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044r6kicz.html",
+                "num": 14,
+                "duration": 1291
             }
         ]
     },
