@@ -11456,5 +11456,41 @@
                 "duration": 1196
             }
         ]
+    },
+    {
+        "updateNotify": "",
+        "updateLast": "更新至05集",
+        "tvName": "星域四万年",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200enin55a/a004445ottf.html",
+        "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200enin55a1663640394863/260",
+        "headTime": 140,
+        "tailTime": 36000,
+        "sections": [
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/m0044sdjlb4.html",
+                "num": 1,
+                "duration": 1560
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/z00446wwiq4.html",
+                "num": 2,
+                "duration": 1264
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/n0044zr2vns.html",
+                "num": 3,
+                "duration": 1169
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/c0044z9pwz7.html",
+                "num": 4,
+                "duration": 1106
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/a004445ottf.html",
+                "num": 5,
+                "duration": 1176
+            }
+        ]
     }
 ]
