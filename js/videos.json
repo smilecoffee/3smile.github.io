@@ -2350,15 +2350,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/l0044ma0iy7.html",
                 "num": 275,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/y0044615i8h.html",
+                "num": 276,
+                "duration": 465
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至275集",
+        "updateLast": "更新至276集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/l0044ma0iy7.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/y0044615i8h.html"
     },
     {
         "sections": [
@@ -3859,15 +3864,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/l0044chqrp7.html",
                 "num": 325,
                 "duration": 645
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/k00449sswk8.html",
+                "num": 326,
+                "duration": 643
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至325集",
+        "updateLast": "更新至326集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/l0044chqrp7.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/k00449sswk8.html"
     },
     {
         "sections": [
@@ -9732,9 +9742,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至72集",
+        "updateLast": "更新至73集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/w0044q0859c.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u0044eu2lq3.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -10098,14 +10108,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/w0044q0859c.html",
                 "num": 72,
                 "duration": 585
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u0044eu2lq3.html",
+                "num": 73,
+                "duration": 585
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至14集",
+        "updateLast": "更新至15集",
         "tvName": "诛仙",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044r6kicz.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/w0044x3egdd.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
         "headTime": 100,
         "tailTime": 1500,
@@ -10179,6 +10194,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/p0044r6kicz.html",
                 "num": 14,
                 "duration": 1291
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/w0044x3egdd.html",
+                "num": 15,
+                "duration": 1100
             }
         ]
     },
@@ -11403,9 +11423,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至05集",
+        "updateLast": "更新至06集",
         "tvName": "星域四万年",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200enin55a/a004445ottf.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200enin55a/n0044n3ywra.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200enin55a1663640394863/260",
         "headTime": 140,
         "tailTime": 36000,
@@ -11434,6 +11454,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200enin55a/a004445ottf.html",
                 "num": 5,
                 "duration": 1176
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200enin55a/n0044n3ywra.html",
+                "num": 6,
+                "duration": 1142
             }
         ]
     }
