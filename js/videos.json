@@ -5018,15 +5018,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/y00441d6zkk.html",
                 "num": 254,
                 "duration": 747
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044tcn538.html",
+                "num": 255,
+                "duration": 757
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至254集",
+        "updateLast": "更新至255集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/y00441d6zkk.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044tcn538.html"
     },
     {
         "sections": [
@@ -8175,9 +8180,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至317集",
+        "updateLast": "更新至318集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/x0044h3oa1d.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044zdfwe4.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9485,6 +9490,11 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/x0044h3oa1d.html",
                 "num": 317,
+                "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044zdfwe4.html",
+                "num": 318,
                 "duration": 460
             }
         ]
