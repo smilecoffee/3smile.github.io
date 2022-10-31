@@ -5038,15 +5038,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044tcn538.html",
                 "num": 255,
                 "duration": 757
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0044b3pmlr.html",
+                "num": 256,
+                "duration": 757
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至255集",
+        "updateLast": "更新至256集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044tcn538.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0044b3pmlr.html"
     },
     {
         "sections": [
@@ -7249,21 +7254,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/m0044tdeza0.html",
                 "num": 217,
                 "duration": 465
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/l004471kgb7.html",
+                "num": 218,
+                "duration": 464
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至217集",
+        "updateLast": "更新至218集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/m0044tdeza0.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/l004471kgb7.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至140集",
+        "updateLast": "更新至141集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/g0044f0ppgs.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/u0044mnej4e.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7856,6 +7866,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/g0044f0ppgs.html",
                 "num": 140,
                 "duration": 718
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/u0044mnej4e.html",
+                "num": 141,
+                "duration": 718
             }
         ]
     },
@@ -8215,9 +8230,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至318集",
+        "updateLast": "更新至319集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044zdfwe4.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044ex5g5m.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9530,6 +9545,11 @@
             {
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/t0044zdfwe4.html",
                 "num": 318,
+                "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044ex5g5m.html",
+                "num": 319,
                 "duration": 460
             }
         ]
@@ -11767,16 +11787,36 @@
         "headTime": 10,
         "tailTime": 36000,
         "sections": [
-			{
+            {
                 "url": "https://v.youku.com/v_show/id_XNTg5MjIwODA2MA==.html?spm=a2hbt.13141534.1_2.7&s=fcaa728a97b5497a9175",
                 "num": 5,
                 "duration": 1264
             },
-			{
+            {
                 "url": "https://v.youku.com/v_show/id_XNTg5NTI2MDc1Ng==.html?spm=a2hbt.13141534.1_2.8&s=fcaa728a97b5497a9175",
                 "num": 6,
                 "duration": 1264
+            },
+			{
+                "url": "https://v.youku.com/v_show/id_XNTg5Njk2NDUyNA==.html?spm=a2hbt.13141534.1_2.9&s=fcaa728a97b5497a9175",
+                "num": 7,
+                "duration": 1264
+            },
+			{
+                "url": "https://v.youku.com/v_show/id_XNTg5NzMyNzA4OA==.html?spm=a2hbt.13141534.1_2.10&s=fcaa728a97b5497a9175",
+                "num": 8,
+                "duration": 1264
+            },
+			{
+                "url": "https://v.youku.com/v_show/id_XNTg5OTM3MTc4MA==.html?spm=a2hbt.13141534.1_2.11&s=fcaa728a97b5497a9175",
+                "num": 9,
+                "duration": 1264
+            },
+			{
+                "url": "https://v.youku.com/v_show/id_XNTkwMTM4NTk5Ng==.html?spm=a2hbt.13141534.1_2.12&s=fcaa728a97b5497a9175",
+                "num": 10,
+                "duration": 1264
             }
-		]
+        ]
     }
 ]
