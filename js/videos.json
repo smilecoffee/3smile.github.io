@@ -5053,15 +5053,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0044b3pmlr.html",
                 "num": 256,
                 "duration": 757
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/c00445m8fae.html",
+                "num": 257,
+                "duration": 757
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至256集",
+        "updateLast": "更新至257集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/i0044b3pmlr.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/c00445m8fae.html"
     },
     {
         "sections": [
@@ -8245,9 +8250,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至319集",
+        "updateLast": "更新至320集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044ex5g5m.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/h0044c1de3u.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -9566,6 +9571,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/s0044ex5g5m.html",
                 "num": 319,
                 "duration": 460
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/h0044c1de3u.html",
+                "num": 320,
+                "duration": 461
             }
         ]
     },
@@ -9573,7 +9583,7 @@
         "updateNotify": "",
         "updateLast": "更新至60集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/x00447i3sme.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/u00445lo4cj.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
