@@ -2375,15 +2375,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/b0044uwvmpo.html",
                 "num": 278,
                 "duration": 464
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/z0044irsjou.html",
+                "num": 279,
+                "duration": "07:43"
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "",
+        "updateLast": "更新至279集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 425,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/b0044uwvmpo.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/z0044irsjou.html"
     },
     {
         "sections": [
@@ -5071,7 +5076,7 @@
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至257集",
+        "updateLast": "",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
@@ -7311,7 +7316,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至142集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/v0044nugldo.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -7921,7 +7926,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至83集",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/e0044q5te2i.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -9877,7 +9882,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至76集",
         "tvName": "万界独尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/j0044z2gkvr.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
@@ -10268,7 +10273,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至16集",
+        "updateLast": "",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/m0044i7jj8t.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
@@ -10359,9 +10364,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至16集",
+        "updateLast": "更新至17集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/c0044nelexp.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/c0044v6apa5.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10445,14 +10450,19 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/c0044nelexp.html",
                 "num": 16,
                 "duration": 1256
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/c0044v6apa5.html",
+                "num": 17,
+                "duration": "21:20"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至215集",
+        "updateLast": "更新至216集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/a0044euzgme.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/y0044plia3u.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -11531,6 +11541,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/a0044euzgme.html",
                 "num": 215,
                 "duration": 661
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y0044plia3u.html",
+                "num": 216,
+                "duration": "11:01"
             }
         ]
     },
@@ -11608,6 +11623,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/a0044euzgme.html",
                 "num": 215,
                 "duration": 661
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/y0044plia3u.html",
+                "num": 216,
+                "duration": "11:01"
             }
         ]
     },
@@ -11659,7 +11679,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "全40集",
+        "updateLast": "",
         "tvName": "画江湖之不良人 第2季",
         "fromUrl": "https://v.qq.com/x/cover/vm3usmzs1wa5yo3/z0023pkkwol.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/vm3usmzs1wa5yo3t1464228038.jpg/260",
@@ -11938,17 +11958,16 @@
                 "num": 16,
                 "duration": 1264
             },
-			{
+            {
                 "url": "https://v.youku.com/v_show/id_XNDk2MzEyNTUyMA==.html?spm=a2hbt.13141534.1_3.21&s=adbd5cc3e8e64e668546",
                 "num": 17,
                 "duration": 1264
             },
-			{
+            {
                 "url": "https://v.youku.com/v_show/id_XNDk2MzEyNjI1Ng==.html?spm=a2hbt.13141534.1_3.22&s=adbd5cc3e8e64e668546",
                 "num": 18,
                 "duration": 1264
             }
-			
         ]
     }
 ]
