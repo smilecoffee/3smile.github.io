@@ -3919,15 +3919,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/e0044wax9oq.html",
                 "num": 330,
                 "duration": "10:56"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044uu7jw2.html",
+                "num": 331,
+                "duration": "10:54"
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至330集",
+        "updateLast": "更新至331集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/e0044wax9oq.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/i0044uu7jw2.html"
     },
     {
         "sections": [
@@ -7334,21 +7339,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/m004476mzku.html",
                 "num": 220,
                 "duration": "07:44"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/d0044fruh36.html",
+                "num": 221,
+                "duration": "07:44"
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至220集",
+        "updateLast": "更新至221集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/m004476mzku.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/d0044fruh36.html"
     },
     {
         "updateNotify": "",
         "updateLast": "",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/f0044unqn5z.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/q0044mc51ek.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -7956,14 +7966,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/f0044unqn5z.html",
                 "num": 143,
                 "duration": "11:58"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/q0044mc51ek.html",
+                "num": 144,
+                "duration": "11:58"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至84集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/e0044q5te2i.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i0044ve5gbm.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -8315,12 +8330,17 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/e0044q5te2i.html",
                 "num": 83,
                 "duration": 1265
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i0044ve5gbm.html",
+                "num": 84,
+                "duration": "21:46"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至322集",
+        "updateLast": "",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/k0044jhu2u6.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -10328,7 +10348,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至17集",
+        "updateLast": "",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/y00444ayv9n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
@@ -11754,7 +11774,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "全40集",
+        "updateLast": "",
         "tvName": "画江湖之不良人 第2季",
         "fromUrl": "https://v.qq.com/x/cover/vm3usmzs1wa5yo3/z0023pkkwol.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/vm3usmzs1wa5yo3t1464228038.jpg/260",
