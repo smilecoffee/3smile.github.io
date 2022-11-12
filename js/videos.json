@@ -1102,15 +1102,20 @@
                 "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/m0044kgeh3a.html",
                 "num": 233,
                 "duration": "21:00"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/g0044u4xtx8.html",
+                "num": 234,
+                "duration": "21:46"
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至233集",
+        "updateLast": "更新至234集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
         "tailTime": 1105,
-        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/m0044kgeh3a.html"
+        "fromUrl": "https://v.qq.com/x/cover/m441e3rjq9kwpsc/g0044u4xtx8.html"
     },
     {
         "sections": [
@@ -6406,15 +6411,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/d00448xv3lt.html",
                 "num": 283,
                 "duration": "08:40"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/l0044dbbeoj.html",
+                "num": 284,
+                "duration": "08:40"
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "",
+        "updateLast": "更新至284集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/d00448xv3lt.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/l0044dbbeoj.html"
     },
     {
         "sections": [
@@ -7347,7 +7357,7 @@
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至221集",
+        "updateLast": "",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -7356,7 +7366,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至144集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/q0044mc51ek.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -8340,7 +8350,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至322集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/k0044jhu2u6.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -9952,9 +9962,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至77集",
+        "updateLast": "",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/o0044x7xw03.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/q0044vnzau5.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -10343,12 +10353,17 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/o0044x7xw03.html",
                 "num": 77,
                 "duration": "09:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/q0044vnzau5.html",
+                "num": 78,
+                "duration": "09:46"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至17集",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/y00444ayv9n.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
@@ -11774,7 +11789,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "全40集",
         "tvName": "画江湖之不良人 第2季",
         "fromUrl": "https://v.qq.com/x/cover/vm3usmzs1wa5yo3/z0023pkkwol.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/vm3usmzs1wa5yo3t1464228038.jpg/260",
