@@ -1115,7 +1115,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "",
+        "updateLast": "更新至235集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -2405,15 +2405,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/o0044ipt8h6.html",
                 "num": 282,
                 "duration": "07:51"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/w0044xi7lel.html",
+                "num": 283,
+                "duration": "07:43"
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至282集",
+        "updateLast": "更新至283集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 480,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/o0044ipt8h6.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/w0044xi7lel.html"
     },
     {
         "sections": [
@@ -7412,7 +7417,7 @@
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "",
+        "updateLast": "更新至223集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -10458,7 +10463,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至18集",
+        "updateLast": "",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/q0044qrl4eq.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
@@ -10561,7 +10566,7 @@
         "updateNotify": "",
         "updateLast": "",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/d0044q8qny5.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/x0044bz1hzv.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -10655,14 +10660,19 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/d0044q8qny5.html",
                 "num": 18,
                 "duration": "22:02"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/x0044bz1hzv.html",
+                "num": 19,
+                "duration": "20:00"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至219集",
+        "updateLast": "更新至220集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/z00445q3kjy.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -11761,6 +11771,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/z00445q3kjy.html",
                 "num": 219,
                 "duration": "11:01"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
+                "num": 220,
+                "duration": "11:13"
             }
         ]
     },
@@ -11858,6 +11873,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/z00445q3kjy.html",
                 "num": 219,
                 "duration": "11:01"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
+                "num": 220,
+                "duration": "11:13"
             }
         ]
     },
@@ -12130,7 +12150,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至24集",
+        "updateLast": "更新至25集",
         "tvName": "大博弈",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200xmt0a8h/e0044wr93so.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/sdp0010051y64cm1657951160/260",
