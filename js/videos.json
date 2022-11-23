@@ -1115,7 +1115,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至235集",
+        "updateLast": "",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -6481,15 +6481,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/h0044jnp5wz.html",
                 "num": 286,
                 "duration": "08:40"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/v0044p1264u.html",
+                "num": 287,
+                "duration": "08:39"
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "",
+        "updateLast": "更新至287集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/h0044jnp5wz.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/v0044p1264u.html"
     },
     {
         "sections": [
@@ -7437,7 +7442,7 @@
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至224集",
+        "updateLast": "",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -7446,7 +7451,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至147集",
         "tvName": "逆天至尊",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/e004469rfv1.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
@@ -8081,7 +8086,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至85集",
+        "updateLast": "",
         "tvName": "完美世界",
         "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/c0044skzo0l.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
@@ -9806,9 +9811,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至62集",
+        "updateLast": "更新至63集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/j0044ql5kvv.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/g0044sqcwml.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -10077,6 +10082,11 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/j0044ql5kvv.html",
                 "num": 62,
                 "duration": "21:36"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/g0044sqcwml.html",
+                "num": 63,
+                "duration": "22:23"
             }
         ]
     },
@@ -10498,7 +10508,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至19集",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/d0044aqbziz.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
@@ -10710,9 +10720,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至220集",
+        "updateLast": "更新至221集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/e0044ze7mri.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -11816,6 +11826,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
                 "num": 220,
                 "duration": "11:13"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/e0044ze7mri.html",
+                "num": 221,
+                "duration": "11:12"
             }
         ]
     },
@@ -11918,12 +11933,17 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/b00440e4xiw.html",
                 "num": 220,
                 "duration": "11:13"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/e0044ze7mri.html",
+                "num": 221,
+                "duration": "11:12"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至10集",
+        "updateLast": "",
         "tvName": "星域四万年",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200enin55a/v0044d69v3e.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200enin55a1663640394863/260",
@@ -12195,7 +12215,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至29集",
+        "updateLast": "更新至31集",
         "tvName": "大博弈",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200xmt0a8h/o00441yd2wl.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/sdp0010051y64cm1657951160/260",
@@ -12345,6 +12365,16 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200xmt0a8h/v0044wz9uqr.html",
                 "num": 29,
+                "duration": "45:07"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xmt0a8h/o00441yd2wl.html",
+                "num": 33,
+                "duration": "02:22"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200xmt0a8h/q00440zqnti.html",
+                "num": 31,
                 "duration": "45:07"
             },
             {
