@@ -5218,15 +5218,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/r00445pzmqz.html",
                 "num": 266,
                 "duration": "12:41"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/p00442m44kn.html",
+                "num": 267,
+                "duration": "12:41"
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至266集",
+        "updateLast": "更新至267集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/r00445pzmqz.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/p00442m44kn.html"
     },
     {
         "sections": [
@@ -6569,7 +6574,7 @@
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至291集",
+        "updateLast": "",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -7542,7 +7547,7 @@
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至228集",
+        "updateLast": "",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -8585,7 +8590,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至329集",
+        "updateLast": "更新至330集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/j0044daxnf7.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -9961,7 +9966,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至65集",
         "tvName": "吞噬星空",
         "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/y0045uygsja.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
@@ -10910,7 +10915,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至225集",
+        "updateLast": "",
         "tvName": "绝世武魂",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/f0044nccb2r.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
