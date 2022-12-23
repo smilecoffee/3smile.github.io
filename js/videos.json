@@ -4059,15 +4059,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/m0044bn9c5k.html",
                 "num": 341,
                 "duration": "10:58"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/q0044cxud9n.html",
+                "num": 342,
+                "duration": "11:00"
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至341集",
+        "updateLast": "更新至342集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/m0044bn9c5k.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/q0044cxud9n.html"
     },
     {
         "sections": [
@@ -5288,15 +5293,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x004401lvgx.html",
                 "num": 270,
                 "duration": "12:41"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044f9t0l7.html",
+                "num": 271,
+                "duration": "12:41"
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至270集",
+        "updateLast": "",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/x004401lvgx.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g0044f9t0l7.html"
     },
     {
         "sections": [
@@ -7649,21 +7659,26 @@
                 "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/o0044ja3r6p.html",
                 "num": 232,
                 "duration": "07:44"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200ilydv1a/h0044i0djci.html",
+                "num": 233,
+                "duration": "07:44"
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至232集",
+        "updateLast": "更新至233集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
         "tailTime": 420,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/o0044ja3r6p.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200ilydv1a/h0044i0djci.html"
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至155集",
+        "updateLast": "更新至156集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/s0045snc86u.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/i0045iz6o2b.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -8331,14 +8346,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/s0045snc86u.html",
                 "num": 155,
                 "duration": "11:58"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/i0045iz6o2b.html",
+                "num": 156,
+                "duration": "12:05"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至89集",
+        "updateLast": "更新至90集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/w0045811xzu.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o00451oyttx.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -8720,14 +8740,19 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/w0045811xzu.html",
                 "num": 89,
                 "duration": "20:34"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/o00451oyttx.html",
+                "num": 90,
+                "duration": "20:46"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至333集",
+        "updateLast": "更新至334集",
         "tvName": "万界仙踪",
-        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/m00456qyhhq.html",
+        "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/r0045kjz9rc.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
         "headTime": 98,
         "tailTime": 465,
@@ -10116,6 +10141,11 @@
                 "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/m00456qyhhq.html",
                 "num": 333,
                 "duration": "07:41"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/r0045kjz9rc.html",
+                "num": 334,
+                "duration": "07:41"
             }
         ]
     },
@@ -10873,7 +10903,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "",
+        "updateLast": "更新至22集",
         "tvName": "诛仙",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/m0045l5frzo.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
