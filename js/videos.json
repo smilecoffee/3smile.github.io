@@ -6691,15 +6691,20 @@
                 "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/n0045mtz6yr.html",
                 "num": 296,
                 "duration": "08:39"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/y0jueuihog64xhb/k0045i15b82.html",
+                "num": 297,
+                "duration": "08:39"
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至296集",
+        "updateLast": "更新至297集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
         "tailTime": 450,
-        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/n0045mtz6yr.html"
+        "fromUrl": "https://v.qq.com/x/cover/y0jueuihog64xhb/k0045i15b82.html"
     },
     {
         "sections": [
@@ -10191,9 +10196,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至67集",
+        "updateLast": "更新至68集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/g0045o0et4z.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/j0045sk08kg.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -10487,6 +10492,11 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/g0045o0et4z.html",
                 "num": 67,
                 "duration": "21:13"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/j0045sk08kg.html",
+                "num": 68,
+                "duration": "22:14"
             }
         ]
     },
@@ -11210,9 +11220,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至230集",
+        "updateLast": "更新至231集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/m0045qarx7z.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/b00459ra5zq.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -12365,6 +12375,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/m0045qarx7z.html",
                 "num": 230,
+                "duration": "11:12"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/b00459ra5zq.html",
+                "num": 231,
                 "duration": "11:12"
             }
         ]
