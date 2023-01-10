@@ -2495,15 +2495,20 @@
                 "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/v00457y4yyx.html",
                 "num": 296,
                 "duration": "07:41"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/7q544xyrava3vxf/q0045tbab4s.html",
+                "num": 297,
+                "duration": "07:48"
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至296集",
+        "updateLast": "更新至297集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
         "tailTime": 480,
-        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/v00457y4yyx.html"
+        "fromUrl": "https://v.qq.com/x/cover/7q544xyrava3vxf/q0045tbab4s.html"
     },
     {
         "sections": [
@@ -4109,15 +4114,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/z0045jezinr.html",
                 "num": 346,
                 "duration": "10:55"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0045mg48d6.html",
+                "num": 347,
+                "duration": "10:55"
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至346集",
+        "updateLast": "更新至347集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/z0045jezinr.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/w0045mg48d6.html"
     },
     {
         "sections": [
@@ -10637,9 +10647,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至93集",
+        "updateLast": "更新至94集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/v0045ytuzrr.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u0045hfzrxj.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -11108,14 +11118,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/v0045ytuzrr.html",
                 "num": 93,
                 "duration": "09:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/u0045hfzrxj.html",
+                "num": 94,
+                "duration": "09:45"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至24集",
+        "updateLast": "更新至25集",
         "tvName": "诛仙",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/c0045dgvi57.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200kwy29cd/c004581zxu2.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200kwy29cd1659000159835/220",
         "headTime": 100,
         "tailTime": 1500,
@@ -11239,6 +11254,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/c0045dgvi57.html",
                 "num": 24,
                 "duration": "22:30"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200kwy29cd/c004581zxu2.html",
+                "num": 25,
+                "duration": "22:23"
             }
         ]
     },
@@ -12566,7 +12586,7 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至15集",
+        "updateLast": "会员看全集",
         "tvName": "星域四万年",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200enin55a/e0045a9grvg.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200enin55a1663640394863/260",
@@ -12743,6 +12763,14 @@
             {
                 "url": "https://v.youku.com/v_show/id_XNTkyNzE3NDYwNA==.html?s=daafdde1e4e94539bc64",
                 "num": 21
+            },
+            {
+                "url": "https://v.youku.com/v_show/id_XNTkzMTc3MzEwMA==.html?s=daafdde1e4e94539bc64",
+                "num": 22
+            },
+            {
+                "url": "https://v.youku.com/v_show/id_XNTkzMTc3MzA5Ng==.html?s=daafdde1e4e94539bc64",
+                "num": 23
             }
         ]
     }
