@@ -6769,7 +6769,7 @@
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至300集",
+        "updateLast": "更新至301集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -10336,9 +10336,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至69集",
+        "updateLast": "更新至70集",
         "tvName": "吞噬星空",
-        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/y0045503tb5.html",
+        "fromUrl": "https://v.qq.com/x/cover/324olz7ilvo2j5f/m00450wulw5.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/324olz7ilvo2j5f1640598119014/130",
         "headTime": 138,
         "tailTime": 1260,
@@ -10642,6 +10642,11 @@
                 "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/y0045503tb5.html",
                 "num": 69,
                 "duration": "22:36"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/324olz7ilvo2j5f/m00450wulw5.html",
+                "num": 70,
+                "duration": "22:06"
             }
         ]
     },
@@ -11405,9 +11410,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至234集",
+        "updateLast": "更新至235集",
         "tvName": "绝世武魂",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/r0045x6q12p.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/l00458t296v.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
         "headTime": 145,
         "tailTime": 1500,
@@ -12581,6 +12586,11 @@
                 "url": "https://v.qq.com/x/cover/mzc00200no18bci/r0045x6q12p.html",
                 "num": 234,
                 "duration": "11:01"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200no18bci/l00458t296v.html",
+                "num": 235,
+                "duration": "10:50"
             }
         ]
     },
