@@ -1135,7 +1135,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "更新至244集",
+        "updateLast": "更新至245集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -6849,7 +6849,7 @@
             }
         ],
         "updateNotify": "每周三、六10:00更新1集",
-        "updateLast": "更新至307集",
+        "updateLast": "更新至308集",
         "tvName": "万界神主",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/y0jueuihog64xhb1614847016293/130",
         "headTime": 135,
@@ -10842,9 +10842,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至100集",
+        "updateLast": "更新至101集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z004526s6nd.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z00457cld95.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -11347,6 +11347,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z004526s6nd.html",
                 "num": 100,
+                "duration": "09:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z00457cld95.html",
+                "num": 101,
                 "duration": "09:45"
             }
         ]
