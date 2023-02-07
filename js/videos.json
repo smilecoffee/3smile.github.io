@@ -2513,7 +2513,7 @@
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至304集",
+        "updateLast": "更新至305集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
@@ -4164,15 +4164,20 @@
                 "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/f0045iro4io.html",
                 "num": 354,
                 "duration": "11:00"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/2w2legt0g8z26al/p0045rzgv48.html",
+                "num": 355,
+                "duration": "10:59"
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "更新至354集",
+        "updateLast": "更新至355集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
         "tailTime": 590,
-        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/f0045iro4io.html"
+        "fromUrl": "https://v.qq.com/x/cover/2w2legt0g8z26al/p0045rzgv48.html"
     },
     {
         "sections": [
@@ -10857,9 +10862,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至101集",
+        "updateLast": "更新至102集",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z00457cld95.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/x0045z3otzm.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -11367,6 +11372,11 @@
             {
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/z00457cld95.html",
                 "num": 101,
+                "duration": "09:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/x0045z3otzm.html",
+                "num": 102,
                 "duration": "09:45"
             }
         ]
