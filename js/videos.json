@@ -4192,7 +4192,7 @@
             }
         ],
         "updateNotify": "每周二、五10:00更新1集",
-        "updateLast": "",
+        "updateLast": "更新至364集",
         "tvName": "灵剑尊",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/2w2legt0g8z26al1617696629673/130",
         "headTime": 160,
@@ -5528,15 +5528,20 @@
                 "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0045egrbar.html",
                 "num": 292,
                 "duration": "12:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g00453l0w4b.html",
+                "num": 293,
+                "duration": "12:45"
             }
         ],
         "updateNotify": "每周一、四10:00更新1集",
-        "updateLast": "更新至292集",
+        "updateLast": "更新至293集",
         "tvName": "独步逍遥",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200qqsk3cv1590046238923/130",
         "headTime": 156,
         "tailTime": 625,
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/o0045egrbar.html"
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200qqsk3cv/g00453l0w4b.html"
     },
     {
         "sections": [
@@ -7947,7 +7952,7 @@
             }
         ],
         "updateNotify": "5月21日起，每周一、五10点更新1集",
-        "updateLast": "更新至254集",
+        "updateLast": "更新至255集",
         "tvName": "无上神帝",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200ilydv1a1620815950817/130",
         "headTime": 100,
@@ -7956,9 +7961,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至177集",
+        "updateLast": "更新至178集",
         "tvName": "逆天至尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/r0045tpue9y.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200azkttu2/j0045pql0a1.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200azkttu21626172897286/260",
         "headTime": 180,
         "tailTime": 690,
@@ -8736,14 +8741,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200azkttu2/r0045tpue9y.html",
                 "num": 177,
                 "duration": "11:58"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200azkttu2/j0045pql0a1.html",
+                "num": 178,
+                "duration": "11:58"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至100集",
+        "updateLast": "更新至101集",
         "tvName": "完美世界",
-        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/d0045jm5hji.html",
+        "fromUrl": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/n0045ruxr45.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mcv8hkc8zk8lnov1630422490966/220",
         "headTime": 125,
         "tailTime": 1200,
@@ -9180,12 +9190,17 @@
                 "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/d0045jm5hji.html",
                 "num": 100,
                 "duration": "21:53"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/n0045ruxr45.html",
+                "num": 101,
+                "duration": "21:53"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至355集",
+        "updateLast": "更新至356集",
         "tvName": "万界仙踪",
         "fromUrl": "https://v.qq.com/x/cover/5cuf8ahvxvm2587/g0045jc39kr.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/5cuf8ahvxvm25871624273202279/130",
@@ -12985,9 +13000,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至44集",
+        "updateLast": "更新至45集",
         "tvName": "神印王座",
-        "fromUrl": "https://v.qq.com/x/cover/mzc002007j7p5hn/n0045qhufsy.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc002007j7p5hn/l0045rrbbwp.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc002007j7p5hn1660277512780/260",
         "headTime": 140,
         "tailTime": 36000,
@@ -13211,6 +13226,11 @@
                 "url": "https://v.qq.com/x/cover/mzc002007j7p5hn/n0045qhufsy.html",
                 "num": 44,
                 "duration": "19:50"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc002007j7p5hn/l0045rrbbwp.html",
+                "num": 45,
+                "duration": "23:48"
             }
         ]
     }
