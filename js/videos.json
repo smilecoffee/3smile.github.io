@@ -1135,7 +1135,7 @@
             }
         ],
         "updateNotify": "每周六10点更新1集",
-        "updateLast": "",
+        "updateLast": "更新至250集",
         "tvName": "斗罗大陆",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/m441e3rjq9kwpsc1607693898908/130",
         "headTime": 136,
@@ -2513,7 +2513,7 @@
             }
         ],
         "updateNotify": "每周二、日10:00更新1集",
-        "updateLast": "更新至313集",
+        "updateLast": "更新至314集",
         "tvName": "武神主宰",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/7q544xyrava3vxf1610952810187/130",
         "headTime": 120,
@@ -11062,9 +11062,9 @@
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至110集",
+        "updateLast": "",
         "tvName": "万界独尊",
-        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/v0045ny323r.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc00200cu8uq8c/d0045j1jasv.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200cu8uq8c1660030766362/130",
         "headTime": 117,
         "tailTime": 600,
@@ -11618,14 +11618,19 @@
                 "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/v0045ny323r.html",
                 "num": 110,
                 "duration": "09:45"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc00200cu8uq8c/d0045j1jasv.html",
+                "num": 111,
+                "duration": "09:45"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至34集",
+        "updateLast": "更新至35集",
         "tvName": "斗破苍穹年番",
-        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/o0045izsb5h.html",
+        "fromUrl": "https://v.qq.com/x/cover/mzc0020027yzd9e/g0045jxxr5l.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc0020027yzd9e1659888149276/260",
         "headTime": 190,
         "tailTime": 1500,
@@ -11799,12 +11804,17 @@
                 "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/o0045izsb5h.html",
                 "num": 34,
                 "duration": "22:15"
+            },
+            {
+                "url": "https://v.qq.com/x/cover/mzc0020027yzd9e/g0045jxxr5l.html",
+                "num": 35,
+                "duration": "20:50"
             }
         ]
     },
     {
         "updateNotify": "",
-        "updateLast": "更新至251集",
+        "updateLast": "更新至252集",
         "tvName": "绝世武魂",
         "fromUrl": "https://v.qq.com/x/cover/mzc00200no18bci/e00455fwoed.html",
         "coverimg": "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200no18bci1596439143337/260",
